@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="QLExpress" />
+        <module name="spring-qlexpress" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="QLExpress" target="8" />
+      <module name="spring-qlexpress" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
