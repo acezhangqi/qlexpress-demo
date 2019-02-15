@@ -44,6 +44,17 @@ public class QlExpressUtil implements ApplicationContextAware {
 		return runner.execute(statement, expressContext, null, true, false);
 	}
 
+
+	public String[] getOutVar(String express) throws Exception {
+        String[] names = runner.getOutVarNames(express);
+        return names;
+    }
+
+    public String[] getFunction(String express) throws Exception {
+	   return  runner.getOutFunctionNames(express);
+    }
+
+
 	private void initRunner(ExpressRunner runner) {
 		if (isInitialRunner == true) {
 			return;
@@ -68,16 +79,7 @@ public class QlExpressUtil implements ApplicationContextAware {
                     + "            return 800;\n"
                     + "        }\n"
                     + "        return null;");
-				runner.addMacro("otherMediation","  if (money <= 10000){\n"
-                    + "            return 400;\n"
-                    + "        }else if ( money > 10000 && money <= 50000){\n"
-                    + "            return 600;\n"
-                    + "        }else if ( money > 50000 && money <= 100000){\n"
-                    + "            return 800;\n"
-                    + "        }else if ( money > 100000){\n"
-                    + "            return 1000;\n"
-                    + "        }\n"
-                    + "        return null;");
+
 			} catch (Exception e) {
 				throw new RuntimeException("初始化失败表达式", e);
 			}
@@ -89,5 +91,7 @@ public class QlExpressUtil implements ApplicationContextAware {
 			throws BeansException {
 		applicationContext = aContext;
 	}
-
+   public ExpressRunner getRunner(){
+		return runner;
+   }
 }

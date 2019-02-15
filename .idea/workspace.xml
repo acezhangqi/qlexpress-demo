@@ -1,60 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4430b01a-be41-4a03-88af-20fe4a59df3d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20140107.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_4_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_4_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_4_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_4_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" readonly="true" id="4430b01a-be41-4a03-88af-20fe4a59df3d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_2_5_6_SEC03.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
@@ -71,20 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SpringQlexpressApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/SpringQlexpressApplication.java">
+      <file leaf-file-name="DubboAdaptiveExt2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/adaptive/DubboAdaptiveExt2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FunctionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/function/FunctionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
-              <caret line="67" column="66" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="73" />
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,90 +35,86 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperatorApi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/operator/OperatorApi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QlExpressUtil.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/QlExpressUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="82" column="43" selection-start-line="82" selection-start-column="43" selection-end-line="82" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MethodRoadie.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.4/junit-4.4.jar!/org/junit/internal/runners/MethodRoadie.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="115" selection-start-line="115" selection-end-line="115" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MacroTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/macro/MacroTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="41" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeanExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/function/BeanExample.java">
+      <file leaf-file-name="ActivateExt1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/ActivateExt1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-              </folding>
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/MyTest.java">
+      <file leaf-file-name="dubbo.activate.ActivateExt1" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/resources/META-INF/dubbo/internal/dubbo.activate.ActivateExt1">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#359#375#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Function.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/Function.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="21" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="42" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QLExpressContext.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/QLExpressContext.java">
+      <file leaf-file-name="ActivateExt1Impl1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/ActivateExt1Impl1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/TestDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtensionLoader.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/common/extension/ExtensionLoader.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupActivateExtImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/GroupActivateExtImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="10" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderActivateExtImpl1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/OrderActivateExtImpl1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderActivateExtImpl2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/OrderActivateExtImpl2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValueActivateExtImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/ValueActivateExtImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -186,6 +125,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="yet_unknown" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -194,6 +136,7 @@
     <findStrings>
       <find>addFunctionAndClassMethod</find>
       <find>addClassField</find>
+      <find>ExtensionLo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -223,12 +166,38 @@
         <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/UserInfo.java" />
         <option value="$PROJECT_DIR$/QLExpress/src/main/java/macro/MacroTest.java" />
         <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/BaseController.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-qlexpress/src/test/java/com/gongdao/springqlexpress/SpringQlexpressApplicationTests.java" />
         <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/Function.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/MyTest.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/TestBean.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/SPELDemo.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/spi/demo/command.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/META-INF/service/spi.demo.Command" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/spi/demo/CommandB.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/spi/demo/Command.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/adaptive/AdaptiveExt2.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/adaptive/SpringCloudAdaptiveExt2.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/adaptive/ThriftAdaptiveExt2.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/adaptive/DateUtil.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/SpringQlexpressApplication.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/MyEnviromentPostProcessor.java" />
         <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/QlExpressUtil.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/MyTest.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/spi/demo/First.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/spi/demo/CommandA.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/spi/demo/Client.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/adaptive/DubboAdaptiveExt2.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/ActivateExt1.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/OrderActivateExtImpl1.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/OrderActivateExtImpl2.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/ValueActivateExtImpl.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/resources/META-INF/services/dubbo/internal/dubbo.activate.ActivateExt1.properties" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/resources/META-INF/dubbo/internal/dubbo.activate.ActivateExt1.properties" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/resources/META-INF/dubbo/internal/dubbo.activate.ActivateExt1" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/TestDemo.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/GroupActivateExtImpl.java" />
+        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/ActivateExt1Impl1.java" />
       </list>
     </option>
   </component>
@@ -256,11 +225,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="1440" />
-    <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -268,6 +236,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -278,59 +247,6 @@
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="macro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="operator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
               <item name="spring-qlexpress" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -361,7 +277,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springqlexpress" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -370,8 +286,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springqlexpress" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="activate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -383,18 +299,100 @@
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-qlexpress" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-qlexpress" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+              <item name="protocol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="Compiler&#9;PSI&#9;JAVA://com.alibaba.dubbo.common.compiler.Compiler&#10;Extensionloader&#9;FILE&#9;jar:///Users/ace/.m2/repository/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/common/extension/ExtensionLoader.class&#10;Extension&#9;PSI&#9;JAVA://org.apache.catalina.util.Extension&#10;ProtocolWrap&#9;PSI&#9;JAVA://com.alibaba.dubbo.rpc.protocol.ProtocolFilterWrapper&#10;Protocol&#9;PSI&#9;JAVA://com.alibaba.dubbo.rpc.Protocol" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -408,7 +406,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dubbo.adaptive" />
       <recent name="com.gongdao.springqlexpress" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-qlexpress/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -423,101 +425,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyTest.test1">
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="JavaApi.addClassField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="QLExpress" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="other" />
-      <option name="MAIN_CLASS_NAME" value="other.JavaApi" />
-      <option name="METHOD_NAME" value="addClassField" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="JavaApi.getOutFunctionNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="QLExpress" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="other" />
-      <option name="MAIN_CLASS_NAME" value="other.JavaApi" />
-      <option name="METHOD_NAME" value="getOutFunctionNames" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="JavaApi.getOutVarNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="QLExpress" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="other" />
-      <option name="MAIN_CLASS_NAME" value="other.JavaApi" />
-      <option name="METHOD_NAME" value="getOutVarNames" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="MyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestDemo.testDefault">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spi.demo.Client" />
       <module name="spring-qlexpress" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spi.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DubboAdaptiveExt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dubbo.adaptive.DubboAdaptiveExt2" />
+      <module name="spring-qlexpress" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dubbo.adaptive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gongdao.springqlexpress.spring.MyTest" />
+      <module name="spring-qlexpress" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.gongdao.springqlexpress.spring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gongdao.springqlexpress.spring" />
-      <option name="MAIN_CLASS_NAME" value="com.gongdao.springqlexpress.spring.MyTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="MyTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-qlexpress" />
@@ -532,6 +475,29 @@
       <option name="PACKAGE_NAME" value="com.gongdao.springqlexpress.spring" />
       <option name="MAIN_CLASS_NAME" value="com.gongdao.springqlexpress.spring.MyTest" />
       <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestDemo.testDefault" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-qlexpress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dubbo.activate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="dubbo.activate" />
+      <option name="MAIN_CLASS_NAME" value="dubbo.activate.TestDemo" />
+      <option name="METHOD_NAME" value="testDefault" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -585,25 +551,26 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.JavaApi.addClassField" />
-      <item itemvalue="JUnit.JavaApi.getOutVarNames" />
-      <item itemvalue="JUnit.JavaApi.getOutFunctionNames" />
       <item itemvalue="Spring Boot.SpringQlexpressApplication" />
       <item itemvalue="JUnit.MyTest.test1" />
-      <item itemvalue="JUnit.MyTest" />
+      <item itemvalue="Application.MyTest" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.DubboAdaptiveExt2" />
+      <item itemvalue="JUnit.TestDemo.testDefault" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestDemo.testDefault" />
+        <item itemvalue="Application.DubboAdaptiveExt2" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="JUnit.MyTest.test1" />
-        <item itemvalue="JUnit.MyTest" />
-        <item itemvalue="JUnit.JavaApi.getOutFunctionNames" />
-        <item itemvalue="JUnit.JavaApi.getOutVarNames" />
-        <item itemvalue="JUnit.JavaApi.addClassField" />
+        <item itemvalue="Application.MyTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -613,113 +580,87 @@
       <option name="presentableId" value="Default" />
       <updated>1548639487137</updated>
       <workItem from="1548639489311" duration="19878000" />
+      <workItem from="1550054766809" duration="28917000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyTest_test1 - 2019.01.30 at 16h 30m 38s.xml">
-      <configuration name="MyTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTest_test1 - 2019.01.30 at 16h 30m 51s.xml">
-      <configuration name="MyTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTest_test1 - 2019.01.30 at 16h 33m 16s.xml">
-      <configuration name="MyTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTest_test1 - 2019.01.30 at 16h 35m 16s.xml">
-      <configuration name="MyTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTest_test1 - 2019.01.30 at 16h 38m 02s.xml">
-      <configuration name="MyTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTest_test1 - 2019.01.30 at 16h 38m 23s.xml">
-      <configuration name="MyTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTest_test1 - 2019.01.30 at 16h 42m 40s.xml">
-      <configuration name="MyTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTest_test1 - 2019.01.30 at 16h 49m 16s.xml">
-      <configuration name="MyTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTest_test1 - 2019.01.30 at 16h 51m 41s.xml">
-      <configuration name="MyTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTest - 2019.01.30 at 16h 55m 32s.xml">
+    <history-entry file="MyTest - 2019.02.13 at 19h 09m 47s.xml">
       <configuration name="MyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test1 - 2019.02.14 at 14h 43m 06s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test1 - 2019.02.14 at 14h 43m 13s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testDefault - 2019.02.15 at 18h 23m 02s.xml">
+      <configuration name="TestDemo.testDefault" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testDefault - 2019.02.15 at 18h 23m 36s.xml">
+      <configuration name="TestDemo.testDefault" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testDefault - 2019.02.15 at 18h 27m 08s.xml">
+      <configuration name="TestDemo.testDefault" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testDefault - 2019.02.15 at 18h 27m 47s.xml">
+      <configuration name="TestDemo.testDefault" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testDefault - 2019.02.15 at 18h 28m 37s.xml">
+      <configuration name="TestDemo.testDefault" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testDefault - 2019.02.15 at 18h 35m 40s.xml">
+      <configuration name="TestDemo.testDefault" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testDefault - 2019.02.15 at 18h 40m 56s.xml">
+      <configuration name="TestDemo.testDefault" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30274000" />
+    <option name="totallyTimeSpent" value="72880000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="23" width="1920" height="1057" extended-state="6" />
+    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005325" side_tool="true" weight="0.34479168" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32960597" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Project Explorer" order="2" />
-      <window_info id="Job Explorer" order="2" />
-      <window_info anchor="bottom" id="Console" order="7" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32916668" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20625" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" weight="0.34479168" />
-      <window_info anchor="right" id="FAQ Robot" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
-      <window_info anchor="right" id="Bean Validation" />
-      <window_info id="Web" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32935324" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
-      <window_info id="Project Explorer" order="3" />
-      <window_info anchor="bottom" id="Console" order="8" />
-      <window_info id="Job Explorer" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.32960597" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="8" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info id="Image Layers" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Database" order="4" />
       <window_info id="Capture Tool" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="FAQ Robot" order="4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="UI Designer" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
-      <window_info anchor="bottom" id="SonarLint" order="8" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info id="Designer" order="3" />
+      <window_info id="Project Explorer" order="3" />
+      <window_info id="Job Explorer" order="3" />
+      <window_info anchor="bottom" id="Console" order="8" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3273632" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2925373" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="right" id="FAQ Robot" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22257721" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -739,16 +680,45 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/MyTest.java</url>
-          <line>19</line>
+          <line>20</line>
           <properties />
-          <option name="timeStamp" value="6" />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/adaptive/DubboAdaptiveExt2.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/common/extension/ExtensionLoader.class</url>
+          <line>667</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/TestDemo.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/common/extension/ExtensionLoader.class</url>
+          <line>107</line>
+          <properties />
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="22" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>SPI defaultAnnotation = (SPI)this.type.getAnnotation(SPI.class);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>runner.getInstructionSetFromLocalCache(express)</expression-string>
         <language-id>JAVA</language-id>
@@ -757,296 +727,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/QLExpress/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/function/FunctionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="67" column="66" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/operator/OperatorApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="14" selection-start-line="17" selection-start-column="8" selection-end-line="33" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#507#905#0" expanded="true" />
-            <element signature="e#904#905#0" expanded="true" />
-            <element signature="e#1329#1646#0" expanded="true" />
-            <element signature="e#1645#1646#0" expanded="true" />
-            <element signature="e#2727#3027#0" expanded="true" />
-            <element signature="e#3026#3027#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/macro/MacroTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="35" selection-start-line="16" selection-start-column="6" selection-end-line="24" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/other/JavaApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/function/BeanExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/function/FunctionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="67" column="66" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/operator/OperatorApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="14" selection-start-line="17" selection-start-column="8" selection-end-line="33" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#507#905#0" expanded="true" />
-            <element signature="e#904#905#0" expanded="true" />
-            <element signature="e#1329#1646#0" expanded="true" />
-            <element signature="e#1645#1646#0" expanded="true" />
-            <element signature="e#2727#3027#0" expanded="true" />
-            <element signature="e#3026#3027#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/macro/MacroTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="24" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/other/JavaApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/function/BeanExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/function/GroupOperator.java" />
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/macro/Macro.java" />
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/macro/MacroTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="35" selection-start-line="16" selection-start-column="6" selection-end-line="24" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/operator/OperatorApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="14" selection-start-line="17" selection-start-column="8" selection-end-line="33" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#507#905#0" expanded="true" />
-            <element signature="e#904#905#0" expanded="true" />
-            <element signature="e#1329#1646#0" expanded="true" />
-            <element signature="e#1645#1646#0" expanded="true" />
-            <element signature="e#2727#3027#0" expanded="true" />
-            <element signature="e#3026#3027#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/function/BeanExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/function/FunctionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="67" column="66" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/other/JavaApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/springIntegration/SpringIntergration.java" />
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/resources/spring-express-config.xml" />
-    <entry file="file://$PROJECT_DIR$/qlexpress-spring/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/QLExpress/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/function/GroupOperator.java" />
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/macro/Macro.java" />
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/other/JavaApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/springIntegration/SpringIntergration.java" />
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/resources/spring-express-config.xml" />
-    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/UserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/BaseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="14" selection-start-line="27" selection-start-column="8" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-qlexpress/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/test/java/com/gongdao/springqlexpress/SpringQlexpressApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/taobao/util/taobao-express/3.1.3/taobao-express-3.1.3.jar!/com/ql/util/express/ExpressRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3015#3016#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.4/junit-4.4.jar!/org/junit/internal/runners/ClassRoadie.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="e#941#942#0" expanded="true" />
-            <element signature="e#977#978#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.4/junit-4.4.jar!/org/junit/internal/runners/JUnit4ClassRunner.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="77">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#1580#1713#0" expanded="true" />
-            <element signature="e#1712#1713#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1057,20 +741,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/SpringQlexpressApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.4/junit-4.4.jar!/org/junit/internal/runners/MethodRoadie.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -1078,10 +748,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/operator/OperatorApi.java">
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/Function.java" />
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/SPELDemo.java" />
+    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/macro/MacroTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        <state relative-caret-position="255">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1103,7 +775,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/function/FunctionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
+        <state relative-caret-position="897">
           <caret line="67" column="66" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1111,45 +783,336 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/macro/MacroTest.java">
+    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/other/JavaApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="41" />
+        <state relative-caret-position="529">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/operator/OperatorApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-291">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/spi/demo/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/spi/demo/CommandB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="11" selection-start-line="7" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/adaptive/SpringCloudAdaptiveExt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/adaptive/ThriftAdaptiveExt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="3" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/SpringQlexpressApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="22" selection-start-line="10" selection-start-column="7" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/QLExpressContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="148">
           <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/MyTest.java">
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/adaptive/DateUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="36" />
+        <state relative-caret-position="-1937" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/MyEnviromentPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="158" selection-start-line="21" selection-start-column="158" selection-end-line="21" selection-end-column="158" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#359#375#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/Function.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/taobao/util/taobao-express/3.1.3/taobao-express-3.1.3.jar!/com/ql/util/express/ExpressRunner.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="21" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="42" selection-end-column="20" />
+        <state relative-caret-position="1125">
+          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+          <folding>
+            <element signature="e#2981#2982#0" expanded="true" />
+            <element signature="e#3015#3016#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/TestBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/QlExpressUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="82" column="43" selection-start-line="82" selection-start-column="43" selection-end-line="82" selection-end-column="43" />
+        <state relative-caret-position="360">
+          <caret line="93" column="24" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="24" />
+          <folding>
+            <element signature="e#2910#2911#0" expanded="true" />
+            <element signature="e#2932#2933#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2822#2838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/spi/demo/First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/spi/demo/CommandA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="260" column="27" selection-start-line="260" selection-start-column="27" selection-end-line="260" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/spi/demo/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/adaptive/AdaptiveExt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/rpc/protocol/AbstractProtocol.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/META-INF/dubbo/internal/com.alibaba.dubbo.rpc.Protocol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/rpc/protocol/ProtocolFilterWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="26" column="9" selection-start-line="24" selection-start-column="15" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/rpc/Protocol.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.15/tomcat-embed-core-8.5.15-sources.jar!/org/apache/catalina/util/Extension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="219" column="59" lean-forward="true" selection-start-line="219" selection-start-column="59" selection-end-line="219" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Compiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/common/compiler/Compiler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/common/compiler/support/JavassistCompiler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/common/compiler/support/AbstractCompiler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/common/compiler/support/AdaptiveCompiler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/adaptive/DubboAdaptiveExt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/resources/META-INF/services/spi.demo.Command">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/resources/META-INF/services/dubbo/internal/dubbo.activate.ActivateExt1.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/ValueActivateExtImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/common/extension/ExtensionLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/OrderActivateExtImpl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/GroupActivateExtImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="10" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/OrderActivateExtImpl1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/ActivateExt1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/ActivateExt1Impl1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-qlexpress/src/main/resources/META-INF/dubbo/internal/dubbo.activate.ActivateExt1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1170,7 +1133,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1206,7 +1169,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>QLExpress</last-edited>
+          <last-edited>spi-demo</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

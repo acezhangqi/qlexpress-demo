@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/QLExpress/QLExpress.iml" filepath="$PROJECT_DIR$/QLExpress/QLExpress.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/qlexpress-demo.iml" filepath="$PROJECT_DIR$/.idea/qlexpress-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-demo/spi-demo.iml" filepath="$PROJECT_DIR$/spi-demo/spi-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-qlexpress/spring-qlexpress.iml" filepath="$PROJECT_DIR$/spring-qlexpress/spring-qlexpress.iml" />
     </modules>
   </component>

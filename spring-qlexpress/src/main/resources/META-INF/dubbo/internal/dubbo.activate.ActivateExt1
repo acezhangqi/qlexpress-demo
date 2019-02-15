@@ -1,0 +1,9 @@
+group=dubbo.activate.GroupActivateExtImpl
+value=dubbo.activate.ValueActivateExtImpl
+order1=dubbo.activate.OrderActivateExtImpl1
+order2=dubbo.activate.OrderActivateExtImpl2
+dubbo.activate.ActivateExt1Impl1
+
+    
+    
+    
