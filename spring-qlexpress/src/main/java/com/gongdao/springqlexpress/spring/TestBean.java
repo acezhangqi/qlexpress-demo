@@ -1,5 +1,10 @@
 package com.gongdao.springqlexpress.spring;
 
+import org.junit.Test;
+
+import java.util.Arrays;
+import java.util.List;
+
 /**
  * @author zhangqi
  * @date 2019/1/31 上午9:15
@@ -25,5 +30,12 @@ public class TestBean {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+
+    @Test
+    public void test(){
+        List<String> fields = Arrays.asList("a","b","c");
+        System.out.println(fields);
     }
 }

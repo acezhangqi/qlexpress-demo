@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/QLExpress" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/spi-demo" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/spring-dubbo" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/spring-qlexpress" vcs="svn" />
   </component>
 </project>

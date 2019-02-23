@@ -7,7 +7,7 @@ import com.alibaba.dubbo.common.extension.Activate;
  * @date 2019/2/15 下午6:16
  */
 
-@Activate(value = {"value1"}, group = {"value"})
+@Activate( group = {"value"})
 public class ValueActivateExtImpl implements ActivateExt1 {
     public String echo(String msg) {
         System.out.println("ValueActivateExtImpl");

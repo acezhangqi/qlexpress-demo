@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/QLExpress/pom.xml" />
         <option value="$PROJECT_DIR$/spring-qlexpress/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-dubbo/pom.xml" />
       </list>
     </option>
   </component>

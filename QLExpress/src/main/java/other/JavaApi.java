@@ -1,9 +1,14 @@
 package other;
 
+import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.JSONArray;
+import com.alibaba.fastjson.JSONObject;
 import com.ql.util.express.*;
 import org.junit.Test;
 
 import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
 
 /**
  * @author zhangqi
@@ -71,4 +76,60 @@ public class JavaApi {
 
     }
 
+
+    @Test
+    public void testJson(){
+        String json = "{\n"
+            + "    \"status\": \"success\",\n"
+            + "    \"result\": {\n"
+            + "        [\n"
+            + "            \"caseCode\": 112134,\n"
+            + "            \"caseScore\": 0.46153846153846156\n"
+            + "        ],\n"
+            + "        [\n"
+            + "            \"caseCode\": 112135,\n"
+            + "            \"caseScore\": 0.46153846153846156\n"
+            + "        ],\n"
+            + "        [\n"
+            + "            \"caseCode\": 112136,\n"
+            + "            \"caseScore\": 0.46153846153846156\n"
+            + "        ],\n"
+            + "        [\n"
+            + "            \"caseCode\": 112137,\n"
+            + "            \"caseScore\": 0.46153846153846156\n"
+            + "        ],\n"
+            + "        [\n"
+            + "            \"caseCode\": 112138,\n"
+            + "            \"caseScore\": 0.46153846153846156\n"
+            + "        ],\n"
+            + "        [\n"
+            + "            \"caseCode\": 112139,\n"
+            + "            \"caseScore\": 0.46153846153846156\n"
+            + "        ],\n"
+            + "        [\n"
+            + "            \"caseCode\": 112140,\n"
+            + "            \"caseScore\": 0.46153846153846156\n"
+            + "        ],\n"
+            + "        [\n"
+            + "            \"caseCode\": 112141,\n"
+            + "            \"caseScore\": 0.46153846153846156\n"
+            + "        ],\n"
+            + "        [\n"
+            + "            \"caseCode\": 112142,\n"
+            + "            \"caseScore\": 0.46153846153846156\n"
+            + "        ],\n"
+            + "        [\n"
+            + "            \"caseCode\": 112143,\n"
+            + "            \"caseScore\": 0.46153846153846156\n"
+            + "        ]\n"
+            + "    },\n"
+            + "    \"time\": 0.46288499999999977\n"
+            + "}";
+        JSONObject jsonObject = JSON.parseObject(json);
+        JSONArray jsonArray = jsonObject.getJSONArray("result");
+        List<Map>  maps  = JSON.parseArray(jsonArray.toJSONString(),Map.class);
+
+    }
+
+    
 }
