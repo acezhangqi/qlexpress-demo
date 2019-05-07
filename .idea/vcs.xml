@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../companyProject/etna" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/QLExpress" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/dubbo-consumer" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/spi-demo" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/spring-dubbo" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/spring-qlexpress" vcs="svn" />

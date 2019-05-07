@@ -9,17 +9,17 @@
     <!-- 配置可参考 http://dubbo.io/User+Guide-zh.htm -->
     <!-- 服务提供方应用名，用于计算依赖关系 -->
     <dubbo:application name="myprovider" />
-    <dubbo:provider id="aa" version="1.0.0" group="test" filter="MyDubboFitler" listener="MyLis"></dubbo:provider>
+    <dubbo:provider id="aa" version="1.0.0" group="test"  listener="MyLis" loadbalance="roundrobin"></dubbo:provider>
 
     <!-- 定义 zookeeper 注册中心地址及协议 -->
     <dubbo:registry protocol="zookeeper" address="127.0.0.1:2181" client="zkclient" />
 
     <!-- 定义 Dubbo 协议名称及使用的端口，dubbo 协议缺省端口为 20880，如果配置为 -1 或者没有配置 port，则会分配一个没有被占用的端口 -->
-    <dubbo:protocol name="dubbo" port="20880" />
+    <dubbo:protocol name="dubbo" port="20880"/>
 
     <!-- 声明需要暴露的服务接口 -->
     <dubbo:service interface="spi.Hello"
-                   ref="demoService" timeout="10000" version="1.0.0"  group="test"/>
+                   ref="demoService" timeout="10000" version="1.0.0"  group="test" loadbalance="roundrobin" filter="MyDubboFitler"/>
 
     <!-- 和本地 bean 一样实现服务 -->
     <bean id="demoService" class="com.gongdao.springdubbo.HelloImpl" />

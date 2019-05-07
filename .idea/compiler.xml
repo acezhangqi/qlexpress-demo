@@ -6,14 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-consumer" />
+        <module name="flinkstart" />
+        <module name="grpc" />
+        <module name="netty" />
         <module name="QLExpress" />
+        <module name="rocketmqdemo" />
         <module name="spring-dubbo" />
+        <module name="spring-dubbo (1)" />
         <module name="spring-qlexpress" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="dubbo-consumer" target="1.8" />
+      <module name="flinkstart" target="8" />
+      <module name="grpc" target="8" />
+      <module name="netty" target="8" />
       <module name="QLExpress" target="8" />
+      <module name="rocketmqdemo" target="8" />
       <module name="spring-dubbo" target="1.8" />
+      <module name="spring-dubbo (1)" target="1.8" />
       <module name="spring-qlexpress" target="1.8" />
       <module name="springdubbospi" target="1.5" />
     </bytecodeTargetLevel>

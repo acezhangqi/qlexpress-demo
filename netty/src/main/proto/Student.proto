@@ -1,0 +1,17 @@
+
+syntax = "proto3";
+package com.gongdao.zq;
+option java_package ="com.gongdao.zq";
+option java_outer_classname="Student";
+option java_multiple_files = true;
+
+service StudentService{
+    rpc GetRealNameByUsername(MyRequest) returns (MyResponse){}
+}
+
+message MyRequest{
+    string username=1;
+}
+message MyResponse{
+   string realname =2;
+}

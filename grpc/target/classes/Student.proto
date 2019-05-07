@@ -1,0 +1,41 @@
+
+syntax = "proto3";
+package com.gongdao.zq;
+option java_package ="com.gongdao.zq";
+option java_outer_classname="Student";
+option java_multiple_files = true;
+
+service StudentService{
+    rpc GetRealNameByUsername(MyRequest) returns (MyResponse){}
+
+    rpc GetStudentsByAge(StudentRequest) returns (stream StudentResponse){}
+
+    rpc GetStudentsByList(stream StudentRequest) returns(StudentResponseList){}
+
+    rpc BiTalk(stream StreamResquest) returns(stream StreamResponse){}
+}
+
+message MyRequest{
+    string username=1;
+}
+message MyResponse{
+   string realname =2;
+}
+
+message StudentResponse{
+    string name = 1;
+    int32 age =2;
+    string city =3;
+}
+message StudentRequest{
+    string name =1;
+}
+message StudentResponseList{
+    repeated StudentResponse studentResponse = 2;
+}
+message StreamResquest{
+    string request_info =1;
+}
+message StreamResponse{
+    string response_info =2;
+}

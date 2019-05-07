@@ -9,7 +9,14 @@
         <option value="$PROJECT_DIR$/QLExpress/pom.xml" />
         <option value="$PROJECT_DIR$/spring-qlexpress/pom.xml" />
         <option value="$PROJECT_DIR$/spring-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-dubbo2/pom.xml" />
+        <option value="$PROJECT_DIR$/netty/pom.xml" />
+        <option value="$PROJECT_DIR$/flinkstart/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmqdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/grpc/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

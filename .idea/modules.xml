@@ -3,9 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/QLExpress/QLExpress.iml" filepath="$PROJECT_DIR$/QLExpress/QLExpress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" filepath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkstart/flinkstart.iml" filepath="$PROJECT_DIR$/flinkstart/flinkstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc/grpc.iml" filepath="$PROJECT_DIR$/grpc/grpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/qlexpress-demo.iml" filepath="$PROJECT_DIR$/.idea/qlexpress-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmqdemo/rocketmqdemo.iml" filepath="$PROJECT_DIR$/rocketmqdemo/rocketmqdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spi-demo/spi-demo.iml" filepath="$PROJECT_DIR$/spi-demo/spi-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-dubbo/spring-dubbo.iml" filepath="$PROJECT_DIR$/spring-dubbo/spring-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-dubbo2/spring-dubbo (1).iml" filepath="$PROJECT_DIR$/spring-dubbo2/spring-dubbo (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-qlexpress/spring-qlexpress.iml" filepath="$PROJECT_DIR$/spring-qlexpress/spring-qlexpress.iml" />
     </modules>
   </component>

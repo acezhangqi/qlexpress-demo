@@ -1,17 +1,178 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../../companyProject/lassen/court/src/main/java/com/alibaba/lassen/court/bo/impl/LassenCourtBoImpl.java" description="}" line="851" />
+    <bookmark url="file://$PROJECT_DIR$/../../companyProject/etna/etna-start/src/main/java/com/gongdao/etna/service/impl/MediationScheduleServiceImpl.java" description="boolean success = scheduleBO.updateByExample(sched..." line="210" />
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="4430b01a-be41-4a03-88af-20fe4a59df3d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_reflectasm_1_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_1_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_value_auto_value_annotations_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_26_0_android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_truth_truth_0_42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_java_diff_utils_diffutils_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itextpdf_5_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_core_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_stub_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_1_1_33_Fork26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_api_0_19_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_grpc_metrics_0_19_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_openmessaging_openmessaging_api_0_3_1_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_client_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_common_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_logging_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_remoting_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libthrift_0_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mengyun_tcc_transaction_api_1_1_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mengyun_tcc_transaction_core_1_1_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mengyun_tcc_transaction_spring_1_1_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_nop_1_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flinkstart/flinkstart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flinkstart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flinkstart/src/main/java/com/gongdao/flink/Map$flatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flinkstart/src/main/java/com/gongdao/flink/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/grpc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/ggongdao/grpcdemo/GrpcClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/ggongdao/grpcdemo/GrpcServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/ggongdao/grpcdemo/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/MyRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/MyRequestOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/MyResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/MyResponseOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/StreamResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/StreamResponseOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/StreamResquest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/StreamResquestOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/StudentRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/StudentRequestOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/StudentResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/StudentResponseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/StudentResponseListOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/StudentResponseOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq/StudentServiceGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/main/proto/Student.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/netty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/ArthasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/AtomicIntegerFiledUpdaterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/ByteBufTest0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/ChannelHandlerRerefeceCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/HandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/IOtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/RefrenceCountT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/RefrenceCountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/wanzhengNio/NioClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NIOdemo/wanzhengNio/NioServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NettyByteBuf/ByteBufTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/NettyByteBuf/ByteBufTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/gongdao/protobuf1/ProtoBufServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/httpCode/MyHttpServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/httpCode/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/httpCode/ServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/longConnection/MyChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/longConnection/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/qq/MyChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/qq/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/socketCode/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/socketCode/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/webSocketCode/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/pdfText/pdfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/protobuf/Student.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/snapshot/ProtoBufClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/snapshot/ProtoBufServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/snapshot/ProtoBufTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/protocol/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/protocol/MyPersonDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/protocol/MyPersonEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/protocol/MyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/protocol/PersonProtocol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/protocol/订单.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/MyByte2LongDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/MyByteDecoder2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/MyChatClient1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/MyLong2ByteEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/MySerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/MyServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/Server1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/thrift/PersonServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/thrift/ThriftClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/thrift/ThriftServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/thrift/data.thrift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/proto/Student.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmqdemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmqdemo/rocketmqdemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmqdemo/src/main/java/rocketMQFirst/SyncProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/java/com/alibaba/dubbo/rpc/Protocol$Adaptive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/java/com/gongdao/springdubbo/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/java/com/gongdao/springdubbo/HelloImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/java/com/gongdao/springdubbo/MyDubboFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/java/com/gongdao/springdubbo/MyExporterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/java/com/gongdao/springdubbo/MyInvokerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/java/com/gongdao/springdubbo/SpringDubboApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/java/com/zookeeperCli/CreateSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/java/com/zookeeperCli/NodeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/java/com/zookeeperCli/SubscribeChildChanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/java/com/zookeeperCli/SubscribeDataChanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/java/com/zookeeperCli/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.ExporterListener" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.InvokerListener" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/main/resources/dubbo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-dubbo2/src/test/java/com/gongdao/springdubbo/SpringDubboApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -24,6 +185,12 @@
     <ignored path="$PROJECT_DIR$/spring-qlexpress/target/" />
     <ignored path="$PROJECT_DIR$/spring-dubbo/target/" />
     <ignored path="$PROJECT_DIR$/springdubbospi/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/spring-dubbo2/target/" />
+    <ignored path="$PROJECT_DIR$/netty/target/" />
+    <ignored path="$PROJECT_DIR$/flinkstart/target/" />
+    <ignored path="$PROJECT_DIR$/rocketmqdemo/target/" />
+    <ignored path="$PROJECT_DIR$/grpc/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,106 +198,146 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/qlexpress_demo$NioTest9.ic" NAME="NioTest9 Coverage Results" MODIFIED="1554210648700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>NIOdemo.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ProtocolListenerWrapper.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/ProtocolListenerWrapper.java">
+      <file leaf-file-name="ReplayingDecoder.java" pinned="true" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/handler/codec/ReplayingDecoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="36" column="36" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DubboProtocol.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboProtocol.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="286" column="34" lean-forward="true" selection-start-line="286" selection-start-column="34" selection-end-line="286" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Exchangers.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/Exchangers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HeaderExchanger.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/support/header/HeaderExchanger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="40" column="54" lean-forward="true" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Transporters.java" pinned="false" current-in-tab="true">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/Transporters.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="69" column="30" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NettyTransporter.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/transport/netty/NettyTransporter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExtensionLoader.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/extension/ExtensionLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="323" selection-start-line="323" selection-end-line="323" />
+            <state relative-caret-position="4095">
+              <caret line="301" column="14" selection-start-line="301" selection-start-column="14" selection-end-line="301" selection-end-column="14" />
               <folding>
-                <element signature="e#3199#3217#0" expanded="true" />
-                <element signature="e#5687#5688#0" expanded="true" />
-                <element signature="e#5746#5747#0" expanded="true" />
+                <element signature="e#10817#10818#0" expanded="true" />
+                <element signature="e#10876#10877#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractProtocol.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/AbstractProtocol.java">
+      <file leaf-file-name="AbstractNioChannel.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/nio/AbstractNioChannel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+            <state relative-caret-position="219">
+              <caret line="112" column="32" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
               <folding>
-                <element signature="e#1706#1707#0" expanded="true" />
-                <element signature="e#1752#1753#0" expanded="true" />
+                <element signature="e#3891#3892#0" expanded="true" />
+                <element signature="e#3925#3926#0" expanded="true" />
+                <element signature="e#3972#3973#0" expanded="true" />
+                <element signature="e#4021#4022#0" expanded="true" />
+                <element signature="e#4070#4071#0" expanded="true" />
+                <element signature="e#4095#4096#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProtocolUtils.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/support/ProtocolUtils.java">
+      <file leaf-file-name="NioClient.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/netty/src/main/java/NIOdemo/wanzhengNio/NioClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="225">
+              <caret line="22" column="60" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProtocolFilterWrapper.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/ProtocolFilterWrapper.java">
+      <file leaf-file-name="AbstractBootstrap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="219">
+              <caret line="331" selection-start-line="331" selection-end-line="331" />
               <folding>
-                <element signature="e#2928#2929#0" expanded="true" />
-                <element signature="e#2999#3000#0" expanded="true" />
+                <element signature="e#8838#8839#0" expanded="true" />
+                <element signature="e#8898#8899#0" expanded="true" />
+                <element signature="e#14379#14380#0" expanded="true" />
+                <element signature="e#14407#14408#0" expanded="true" />
+                <element signature="e#14997#14998#0" expanded="true" />
+                <element signature="e#15027#15028#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractBootstrapConfig.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrapConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="80" selection-start-line="80" selection-end-line="80" />
+              <folding>
+                <element signature="e#1248#1249#0" expanded="true" />
+                <element signature="e#1328#1329#0" expanded="true" />
+                <element signature="e#2111#2112#0" expanded="true" />
+                <element signature="e#2153#2154#0" expanded="true" />
+                <element signature="e#2549#2550#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultithreadEventLoopGroup.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/MultithreadEventLoopGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
+              <folding>
+                <element signature="e#3118#3119#0" expanded="true" />
+                <element signature="e#3165#3166#0" expanded="true" />
+                <element signature="e#3390#3391#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultithreadEventExecutorGroup.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/util/concurrent/MultithreadEventExecutorGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="136" selection-start-line="136" selection-end-line="136" />
+              <folding>
+                <element signature="e#5770#5771#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleThreadEventLoop.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/SingleThreadEventLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="32" column="25" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="43" />
+              <folding>
+                <element signature="e#3045#3046#0" expanded="true" />
+                <element signature="e#3118#3119#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultChannelPromise.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/DefaultChannelPromise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="e#2106#2107#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractChannel.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/AbstractChannel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="984" column="22" lean-forward="true" selection-start-line="984" selection-start-column="22" selection-end-line="984" selection-end-column="22" />
+              <folding>
+                <element signature="e#4462#4463#0" expanded="true" />
+                <element signature="e#4517#4518#0" expanded="true" />
+                <element signature="e#10107#10108#0" expanded="true" />
+                <element signature="e#10136#10137#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,35 +350,58 @@
       <list>
         <option value="yet_unknown" />
         <option value="AnnotationType" />
-        <option value="Kotlin File" />
         <option value="Interface" />
         <option value="FxmlFile" />
+        <option value="Kotlin File" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>addFunctionAndClassMethod</find>
-      <find>addClassField</find>
-      <find>ExtensionLo</find>
-      <find>url</find>
-      <find>createE</find>
-      <find>create</find>
-      <find>getAdaptive</find>
-      <find>do</find>
-      <find>service config</find>
-      <find>af</find>
-      <find>'</find>
-      <find>[</find>
-      <find>]</find>
+      <find>onA</find>
+      <find>doList</find>
+      <find>not</find>
       <find>ServiceBean</find>
-      <find>createExtension</find>
+      <find>doRefer</find>
+      <find>doMockInvoke</find>
+      <find>createE</find>
+      <find>refer</find>
+      <find>encodeRequest</find>
+      <find>transformations</find>
+      <find>random</find>
+      <find>put</find>
+      <find>1</find>
+      <find>unsa</find>
+      <find>SelectionKey</find>
+      <find>MultithreadEventExecutorGro</find>
+      <find>excut</find>
+      <find>org.quartz-scheduler</find>
+      <find>Handle</find>
+      <find>Conf</find>
+      <find>checkpoint</find>
+      <find>encode</find>
+      <find>decoder</find>
+      <find>decode</find>
+      <find>DefaultChannelConfig</find>
+      <find>add</find>
+      <find>attr</find>
+      <find>bind</find>
+      <find>addLast</find>
+      <find>group</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
       <replace>}</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar</dir>
+      <dir>$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -186,57 +416,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/MyEnviromentPostProcessor.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/QlExpressUtil.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/spi/demo/First.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/spi/demo/CommandA.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/spi/demo/Client.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/adaptive/DubboAdaptiveExt2.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/ActivateExt1.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/OrderActivateExtImpl1.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/OrderActivateExtImpl2.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/resources/META-INF/services/dubbo/internal/dubbo.activate.ActivateExt1.properties" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/resources/META-INF/dubbo/internal/dubbo.activate.ActivateExt1.properties" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/GroupActivateExtImpl.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/ActivateExt1Impl1.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/ValueActivateExtImpl2.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/resources/META-INF/dubbo/internal/dubbo.activate.ActivateExt1" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/ValueActivateExtImpl.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/activate/TestDemo.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/compiler/GenerateInterface.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/dubbo/compiler/JavassistDemo.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/BeanWrapper/Car.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/BeanWrapper/Wheel.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/BeanWrapper/Driver.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/BeanWrapper/BeanWrapperTest.java" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/resources/dubbo/dubbo-spring.xml.fxml" />
-        <option value="$PROJECT_DIR$/springdubbospi/src/main/java/Hello.java" />
-        <option value="$PROJECT_DIR$/springdubbospi/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/resources/dubbo.xml.fxml" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/SpringDubboApplication.java" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/HelloImpl.java" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-dubbo/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/QLExpressContext.java" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/TestBean.java" />
+        <option value="$PROJECT_DIR$/grpc/src/main/java/com/ggongdao/grpcdemo/GrpcClient.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest2.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest3.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/orTest.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest4.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest5.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/Test.java" />
+        <option value="$PROJECT_DIR$/netty/收案中心证据.txt" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest6.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest7.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest9.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest10.java" />
         <option value="$PROJECT_DIR$/QLExpress/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/MyTest.java" />
-        <option value="$PROJECT_DIR$/QLExpress/src/main/java/other/JavaApi.java" />
-        <option value="$PROJECT_DIR$/QLExpress/src/main/java/function/Proxy$Adaptive.java" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/BaseController.java" />
-        <option value="$PROJECT_DIR$/QLExpress/src/main/java/operator/OperatorApi.java" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/resources/META-INF.dubbo/com.alibaba.dubbo.rpc.Filter" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/MyDubboFilter.java" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/java/com/alibaba/dubbo/rpc/Protocol$Adaptive.java" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/MyListner.java" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/resources/META-INF/dubbo/org.apache.dubbo.rpc.ExporterListener" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.ExporterListener" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/MyInvokerListener.java" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/resources/dubbo.xml" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.InvokerListener" />
-        <option value="$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/MyExporterListener.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/wanzhengNio/TreeMapTest.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/wanzhengNio/NioClient.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/wanzhengNio/NIOtest11.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/wanzhengNio/NioServer.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest13.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/IOtest.java" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/netty/pom.xml" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/pdfText/pdfDemo.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/ByteBufTest0.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NettyByteBuf/ByteBufTest1.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NettyByteBuf/ByteBufTest2.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/AtomicIntegerFiledUpdaterTest.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/RefrenceCountTest.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/RefrenceCountT.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/ChannelHandlerRerefeceCount.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/ArthasTest.java" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/src/main/resources/dubbo.xml" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/gongdao/dubboconsumer/BaseController.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/Server1.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/NIOdemo/HandlerTest.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/MyByte2LongDecoder.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/MySerHandler.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/MyByteDecoder2.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/MyServerInitializer.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/MyChatClient1.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/MyLong2ByteEncoder.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/protocol/PersonProtocol.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/protocol/MyPersonDecoder.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/protocol/MyPersonEncoder.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/protocol/MyServerHandler.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/protocol/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/socketCode/client/Client.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/socketCode/server/Server.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/protocol/订单.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/qq/Server.java" />
       </list>
     </option>
   </component>
@@ -257,7 +487,26 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="grpc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="grpc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="netty" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="netty" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -265,9 +514,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="x" value="1711" />
+    <option name="y" value="135" />
+    <option name="width" value="1440" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -275,9 +525,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,89 +537,25 @@
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="operator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spi-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spi-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-dubbo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -378,7 +563,7 @@
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -387,139 +572,229 @@
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+              <item name="nettyUsage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="nettyUsage" type="462c0819:PsiDirectoryNode" />
+              <item name="httpCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nettyUsage" type="462c0819:PsiDirectoryNode" />
+              <item name="longConnection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nettyUsage" type="462c0819:PsiDirectoryNode" />
+              <item name="qq" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-qlexpress" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-qlexpress" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pdfText" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="protobuf" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="snapshot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="NettyByteBuf" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="NIOdemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="NIOdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="wanzhengNio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="NIOdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="AtomicIntegerFiledUpdaterTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="protocol" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selfEncoderAndDecoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="protobuf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thrift" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qlexpress-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="QLExpress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
               <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
               <item name="alibaba" type="462c0819:PsiDirectoryNode" />
               <item name="dubbo" type="462c0819:PsiDirectoryNode" />
               <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="protocol" type="462c0819:PsiDirectoryNode" />
-              <item name="injvm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: io.netty:netty-all:4.1.10.Final" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:2.5.3" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-2.5.3.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: io.netty:netty-all:4.1.10.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.10.Final.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.10.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.10.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.10.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.10.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="buffer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="qlexpress-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -529,7 +804,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="DubboP&#9;FILE&#9;jar:///Users/ace/.m2/repository/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboProtocol.class&#10;Dubbo&#9;FILE&#9;file:///Users/ace/Downloads/zz/qlexpress-demo/spring-dubbo/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.InvokerListener&#10;ActiveLimitFilter&#9;PSI&#9;JAVA://com.alibaba.dubbo.rpc.filter.ActiveLimitFilter&#10;ProtocolF&#9;PSI&#9;JAVA://com.alibaba.dubbo.rpc.protocol.ProtocolFilterWrapper&#10;injvm&#9;PSI&#9;JAVA://com.alibaba.dubbo.rpc.protocol.injvm.InjvmProtocol&#10;Abstract&#9;FILE&#9;jar:///Users/ace/.m2/repository/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/rpc/proxy/AbstractProxyInvoker.class&#10;JavassistProxyFactory&#9;FILE&#9;jar:///Users/ace/.m2/repository/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/rpc/proxy/javassist/JavassistProxyFactory.class&#10;Service&#9;FILE&#9;jar:///Users/ace/.m2/repository/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/config/ServiceConfig.class&#10;Extension&#9;FILE&#9;jar:///Users/ace/.m2/repository/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/common/extension/ExtensionLoader.class&#10;NettyServer&#9;PSI&#9;JAVA://com.alibaba.dubbo.remoting.transport.netty.NettyServer&#10;DubboPro&#9;PSI&#9;JAVA://com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol&#10;ServiceBean&#9;FILE&#9;jar:///Users/ace/.m2/repository/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/config/spring/ServiceBean.class&#10;Hello&#9;FILE&#9;jar:///Users/ace/.m2/repository/com/gongdao/spring-dubbo-spi/1.0.0/spring-dubbo-spi-1.0.0.jar!/Hello.class&#10;Invoker&#9;PSI&#9;JAVA://com.alibaba.dubbo.rpc.Invoker&#10;Rpc&#9;PSI&#9;JAVA://com.alibaba.dubbo.rpc.RpcInvocation&#10;JavaS&#9;FILE&#9;jar:///Users/ace/.m2/repository/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/common/compiler/support/JavassistCompiler.class&#10;Compiler&#9;FILE&#9;jar:///Users/ace/.m2/repository/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/common/compiler/Compiler.class&#10;Gen&#9;FILE&#9;file:///Users/ace/Downloads/zz/qlexpress-demo/top/ss007/GenerateClass.class&#10;SpringExtension&#9;PSI&#9;JAVA://com.alibaba.dubbo.config.spring.extension.SpringExtensionFactory&#10;AdaptiveCom&#9;FILE&#9;jar:///Users/ace/.m2/repository/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/common/compiler/support/AdaptiveCompiler.class&#10;Extensionloader&#9;FILE&#9;jar:///Users/ace/.m2/repository/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/common/extension/ExtensionLoader.class&#10;ProtocolWrap&#9;PSI&#9;JAVA://com.alibaba.dubbo.rpc.protocol.ProtocolFilterWrapper&#10;Protocol&#9;PSI&#9;JAVA://com.alibaba.dubbo.rpc.Protocol" />
+    <property name="SearchEverywhereHistoryKey" value="AbstractUnsafe&#9;PSI&#9;JAVA://io.netty.channel.AbstractChannel.AbstractUnsafe&#10;Single&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/SingleThreadEventLoop.java&#10;Server&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java&#10;AbstractChannelHandlerContext&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/AbstractChannelHandlerContext.java&#10;AbstractBootstrap&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java&#10;DefaultChannelPipeline&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java&#10;ChannelHandlerContext&#9;PSI&#9;JAVA://io.netty.channel.ChannelHandlerContext&#10;ChannelOutboundHandler&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/channel/ChannelOutboundHandler.java&#10;SimpleChannelInboundHandler&#9;PSI&#9;JAVA://io.netty.channel.SimpleChannelInboundHandler&#10;SimpleChannel&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty/3.10.5.Final/netty-3.10.5.Final.jar!/org/jboss/netty/channel/SimpleChannelHandler.class&#10;ChannelIn&#9;PSI&#9;JAVA://io.netty.channel.ChannelInboundHandlerAdapter&#10;ChannelInboundHandler&#9;PSI&#9;JAVA://io.netty.channel.ChannelInboundHandler&#10;Nio&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java&#10;AbstractNioChannel&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/nio/AbstractNioChannel.java&#10;Abstract&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/AbstractChannel.java&#10;Default&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/DefaultChannelConfig.java&#10;NioServerSocketChannel&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java&#10;ChannelOption&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/ChannelOption.java&#10;ChannelPromise&#9;PSI&#9;JAVA://io.netty.channel.ChannelPromise&#10;Length&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/handler/codec/LengthFieldBasedFrameDecoder.java&#10;ReplayingD&#9;PSI&#9;JAVA://io.netty.handler.codec.ReplayingDecoder&#10;Delimi&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/handler/codec/DelimiterBasedFrameDecoder.java&#10;FixedLength&#9;PSI&#9;JAVA://io.netty.handler.codec.FixedLengthFrameDecoder&#10;LengthField&#9;PSI&#9;JAVA://io.netty.handler.codec.LengthFieldBasedFrameDecoder&#10;ReferenceCount&#9;PSI&#9;JAVA://io.netty.util.ReferenceCounted&#10;ByteBuffer&#9;PSI&#9;JAVA://java.nio.ByteBuffer&#10;ChannelFuture&#9;PSI&#9;JAVA://io.netty.channel.ChannelFuture&#10;ChannelInb&#9;PSI&#9;JAVA://io.netty.channel.ChannelInboundHandlerAdapter&#10;Channel&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/channel/ChannelFutureListener.java&#10;ChannelFutureListen&#9;PSI&#9;JAVA://io.netty.channel.ChannelFutureListener&#10;EventLoop&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/SingleThreadEventLoop.java&#10;AbstractNioMessage&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/nio/AbstractNioMessageChannel.java&#10;SingleThread&#9;PSI&#9;JAVA://io.netty.channel.SingleThreadEventLoop&#10;AbstractChannel&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/AbstractChannel.java&#10;Unsafe&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class&#10;NioL&#9;PSI&#9;JAVA://io.netty.channel.nio.NioEventLoopGroup&#10;ServerB&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java&#10;DefaultChannelP&#9;PSI&#9;JAVA://io.netty.channel.DefaultChannelPipeline&#10;FastThread&#9;PSI&#9;JAVA://io.netty.util.concurrent.FastThreadLocal&#10;Attribute&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/util/DefaultAttributeMap.java&#10;ChannelO&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/ChannelOption.java&#10;NioServerS&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java&#10;AbstractNioC&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/nio/AbstractNioChannel.java&#10;tcc-transaction.xml&#9;ACTION&#9;null&#10;SocketChannel&#9;PSI&#9;JAVA://java.nio.channels.SocketChannel&#10;NioServerSocket&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java&#10;Future&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/ChannelFuture.java&#10;NioSocket&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java&#10;Serverbo&#9;FILE&#9;jar:///Users/ace/.m2/repository/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java&#10;NioServerSo&#9;PSI&#9;JAVA://io.netty.channel.socket.nio.NioServerSocketChannel" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
@@ -537,26 +812,32 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.SQL" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dubbo-consumer/src/main/resources/META-INF" />
+      <recent name="$PROJECT_DIR$/spring-qlexpress/src/main/resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring-dubbo/src/main/resources/META-INF/dubbo" />
-      <recent name="$PROJECT_DIR$/spring-dubbo/src/main/resources/META-INF.dubbo" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="selfEncoderAndDecoder" />
+      <recent name="" />
+      <recent name="com.gongdao.dubboconsumer" />
+      <recent name="com.zookeeperCli" />
       <recent name="dubbo.activate" />
-      <recent name="dubbo.adaptive" />
-      <recent name="com.gongdao.springqlexpress" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring-qlexpress/src/main/resources" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/netty" />
+      <recent name="$PROJECT_DIR$/grpc/src/main/java/com/gongdao/zq" />
+      <recent name="$PROJECT_DIR$/grpc/src/main/java/com/gongdao" />
+      <recent name="$PROJECT_DIR$/grpc/src/main/java/com/ggongdao/grpcdemo/zq" />
+      <recent name="$PROJECT_DIR$/grpc/src/main/java/com/ggongdao/grpcdemo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -571,124 +852,64 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringDubboApplication">
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="ArthasTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NIOdemo.ArthasTest" />
+      <module name="netty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIOdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nettyUsage.socketCode.client.Client" />
+      <module name="netty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nettyUsage.socketCode.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MyChatClient1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selfEncoderAndDecoder.MyChatClient1" />
+      <module name="netty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selfEncoderAndDecoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nettyUsage.socketCode.server.Server" />
+      <module name="netty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nettyUsage.socketCode.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Server1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selfEncoderAndDecoder.Server1" />
+      <module name="netty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selfEncoderAndDecoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="BaseController.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-dubbo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gongdao.springdubbo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gongdao.springdubbo" />
-      <option name="MAIN_CLASS_NAME" value="com.gongdao.springdubbo.BaseController" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="BaseController.test11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-dubbo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gongdao.springdubbo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gongdao.springdubbo" />
-      <option name="MAIN_CLASS_NAME" value="com.gongdao.springdubbo.BaseController" />
-      <option name="METHOD_NAME" value="test11" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="JavaApi.testJson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="QLExpress" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="other" />
-      <option name="MAIN_CLASS_NAME" value="other.JavaApi" />
-      <option name="METHOD_NAME" value="testJson" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="MyTest.invokeAllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-qlexpress" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gongdao.springqlexpress.spring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gongdao.springqlexpress.spring" />
-      <option name="MAIN_CLASS_NAME" value="com.gongdao.springqlexpress.spring.MyTest" />
-      <option name="METHOD_NAME" value="invokeAllTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="MyTest.testJson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-qlexpress" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gongdao.springqlexpress.spring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gongdao.springqlexpress.spring" />
-      <option name="MAIN_CLASS_NAME" value="com.gongdao.springqlexpress.spring.MyTest" />
-      <option name="METHOD_NAME" value="testJson" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -705,6 +926,34 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="netty [protobuf:compile]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="protobuf:compile" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/netty" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="DubboConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gongdao.dubboconsumer.DubboConsumerApplication" />
     </configuration>
     <configuration name="SpringDubboApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-dubbo" />
@@ -739,19 +988,21 @@
     <list>
       <item itemvalue="Spring Boot.SpringQlexpressApplication" />
       <item itemvalue="Spring Boot.SpringDubboApplication" />
-      <item itemvalue="JUnit.JavaApi.testJson" />
-      <item itemvalue="JUnit.MyTest.testJson" />
-      <item itemvalue="JUnit.MyTest.invokeAllTest" />
-      <item itemvalue="JUnit.BaseController.test" />
-      <item itemvalue="JUnit.BaseController.test11" />
+      <item itemvalue="Spring Boot.DubboConsumerApplication" />
+      <item itemvalue="Maven.netty [protobuf:compile]" />
+      <item itemvalue="Application.ArthasTest" />
+      <item itemvalue="Application.Server1" />
+      <item itemvalue="Application.MyChatClient1" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BaseController.test11" />
-        <item itemvalue="JUnit.BaseController.test" />
-        <item itemvalue="JUnit.MyTest.invokeAllTest" />
-        <item itemvalue="JUnit.MyTest.testJson" />
-        <item itemvalue="JUnit.JavaApi.testJson" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.MyChatClient1" />
+        <item itemvalue="Application.Server1" />
+        <item itemvalue="Application.ArthasTest" />
       </list>
     </recent_temporary>
   </component>
@@ -769,86 +1020,161 @@
       <workItem from="1548639489311" duration="19878000" />
       <workItem from="1550054766809" duration="33561000" />
       <workItem from="1550308213127" duration="44739000" />
-      <workItem from="1550800049907" duration="27750000" />
+      <workItem from="1550800049907" duration="30861000" />
+      <workItem from="1551059854726" duration="2260000" />
+      <workItem from="1551064687696" duration="39000" />
+      <workItem from="1551065184707" duration="20771000" />
+      <workItem from="1551149708227" duration="18621000" />
+      <workItem from="1551247974066" duration="1267000" />
+      <workItem from="1551250239240" duration="18292000" />
+      <workItem from="1551432822728" duration="595000" />
+      <workItem from="1551663339924" duration="595000" />
+      <workItem from="1551777345751" duration="15305000" />
+      <workItem from="1551852205481" duration="2305000" />
+      <workItem from="1551924897547" duration="29018000" />
+      <workItem from="1552267719892" duration="12238000" />
+      <workItem from="1552401496759" duration="23188000" />
+      <workItem from="1552567258256" duration="1259000" />
+      <workItem from="1552612645299" duration="3884000" />
+      <workItem from="1552874821503" duration="3365000" />
+      <workItem from="1552887174947" duration="16088000" />
+      <workItem from="1553053151519" duration="3336000" />
+      <workItem from="1553081050608" duration="54000" />
+      <workItem from="1553081159853" duration="54000" />
+      <workItem from="1553081267774" duration="4130000" />
+      <workItem from="1553154459015" duration="12969000" />
+      <workItem from="1553269263862" duration="934000" />
+      <workItem from="1553302872171" duration="4151000" />
+      <workItem from="1553392450081" duration="2165000" />
+      <workItem from="1553480014635" duration="3317000" />
+      <workItem from="1553563010533" duration="3272000" />
+      <workItem from="1553771875311" duration="4420000" />
+      <workItem from="1553823213116" duration="398000" />
+      <workItem from="1553836902329" duration="1198000" />
+      <workItem from="1553874968642" duration="304000" />
+      <workItem from="1554116561788" duration="6799000" />
+      <workItem from="1554206610263" duration="226000" />
+      <workItem from="1554207382516" duration="16575000" />
+      <workItem from="1554344320172" duration="2627000" />
+      <workItem from="1554354319441" duration="1880000" />
+      <workItem from="1554367326767" duration="5127000" />
+      <workItem from="1554638477405" duration="996000" />
+      <workItem from="1554786300133" duration="8954000" />
+      <workItem from="1554881469929" duration="1321000" />
+      <workItem from="1555043881639" duration="3911000" />
+      <workItem from="1555065123278" duration="528000" />
+      <workItem from="1555293232164" duration="885000" />
+      <workItem from="1555296320044" duration="595000" />
+      <workItem from="1555303285238" duration="3114000" />
+      <workItem from="1555307920772" duration="1016000" />
+      <workItem from="1555312508146" duration="14746000" />
+      <workItem from="1555469561388" duration="12606000" />
+      <workItem from="1555583746809" duration="6770000" />
+      <workItem from="1555664367430" duration="1612000" />
+      <workItem from="1555929716833" duration="4192000" />
+      <workItem from="1555937987114" duration="4932000" />
+      <workItem from="1556012015956" duration="12548000" />
+      <workItem from="1556105433046" duration="3671000" />
+      <workItem from="1556166929402" duration="2287000" />
+      <workItem from="1556172085474" duration="1033000" />
+      <workItem from="1556175755413" duration="19662000" />
+      <workItem from="1556513647098" duration="2745000" />
+      <workItem from="1556522458091" duration="1650000" />
+      <workItem from="1556525411951" duration="2602000" />
+      <workItem from="1556600948383" duration="14817000" />
+      <workItem from="1557036513780" duration="24738000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyTest_invokeAllTest - 2019.02.21 at 14h 41m 55s.xml">
-      <configuration name="MyTest.invokeAllTest" configurationId="JUnit" />
+    <history-entry file="BaseController_test123 - 2019.02.28 at 17h 32m 55s.xml">
+      <configuration name="BaseController.test123" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTest_invokeAllTest - 2019.02.21 at 14h 43m 03s.xml">
-      <configuration name="MyTest.invokeAllTest" configurationId="JUnit" />
+    <history-entry file="BaseController_test123 - 2019.02.28 at 17h 33m 07s.xml">
+      <configuration name="BaseController.test123" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTest_invokeAllTest - 2019.02.21 at 14h 43m 49s.xml">
-      <configuration name="MyTest.invokeAllTest" configurationId="JUnit" />
+    <history-entry file="MyTest_test1 - 2019.03.01 at 11h 41m 02s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTest_invokeAllTest - 2019.02.21 at 14h 44m 51s.xml">
-      <configuration name="MyTest.invokeAllTest" configurationId="JUnit" />
+    <history-entry file="MyTest_test1 - 2019.03.01 at 11h 41m 16s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTest_invokeAllTest - 2019.02.21 at 14h 54m 01s.xml">
-      <configuration name="MyTest.invokeAllTest" configurationId="JUnit" />
+    <history-entry file="MyTest_test1 - 2019.03.01 at 11h 41m 27s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BaseController_test - 2019.02.22 at 13h 47m 45s.xml">
-      <configuration name="BaseController.test" configurationId="JUnit" />
+    <history-entry file="MyTest_test1 - 2019.03.01 at 12h 52m 31s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BaseController_test - 2019.02.22 at 13h 47m 57s.xml">
-      <configuration name="BaseController.test" configurationId="JUnit" />
+    <history-entry file="BaseController_test12 - 2019.03.06 at 15h 04m 54s.xml">
+      <configuration name="BaseController.test12" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BaseController_test - 2019.02.22 at 13h 48m 05s.xml">
-      <configuration name="BaseController.test" configurationId="JUnit" />
+    <history-entry file="Map$flatMap_coflatmap - 2019.03.13 at 20h 26m 42s.xml">
+      <configuration name="Map$flatMap.coflatmap" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BaseController_test11 - 2019.02.22 at 18h 31m 49s.xml">
-      <configuration name="BaseController.test11" configurationId="JUnit" />
+    <history-entry file="Map$flatMap_maptest2 - 2019.03.13 at 20h 45m 51s.xml">
+      <configuration name="Map$flatMap.maptest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BaseController_test11 - 2019.02.22 at 18h 32m 01s.xml">
-      <configuration name="BaseController.test11" configurationId="JUnit" />
+    <history-entry file="Map$flatMap_coflatmap - 2019.03.13 at 20h 51m 34s.xml">
+      <configuration name="Map$flatMap.coflatmap" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150013000" />
+    <option name="totallyTimeSpent" value="548081000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32960597" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="5" weight="0.32935324" />
+      <window_info anchor="bottom" id="TALA" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.442492" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="3" />
-      <window_info id="Project Explorer" order="3" />
+      <window_info id="Project Explorer" order="3" weight="0.32960597" />
       <window_info id="Job Explorer" order="3" />
-      <window_info anchor="bottom" id="Console" order="9" />
+      <window_info anchor="bottom" id="Console" order="10" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Aone" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="16" visible="true" weight="0.33333334" />
-      <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3273632" />
+      <window_info anchor="bottom" id="Debug" order="17" visible="true" weight="0.29850745" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32935324" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.27860695" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2915423" />
-      <window_info anchor="bottom" id="Spring" order="15" weight="0.32935324" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32935324" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.28969696" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32935324" />
+      <window_info anchor="bottom" id="Spring" order="16" weight="0.32935324" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.2217701" />
       <window_info anchor="right" id="FAQ Robot" order="4" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2401491" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21565495" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" order="13" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32935324" />
+      <window_info anchor="bottom" id="SonarLint" order="14" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.40099502" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.32960597" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -952,19 +1278,19 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/MyTest.java</url>
-          <line>138</line>
+          <line>139</line>
           <properties />
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/MyTest.java</url>
-          <line>90</line>
+          <line>91</line>
           <properties />
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/spring-qlexpress/src/main/java/com/gongdao/springqlexpress/spring/MyTest.java</url>
-          <line>173</line>
+          <line>174</line>
           <properties />
           <option name="timeStamp" value="79" />
         </line-breakpoint>
@@ -1012,7 +1338,7 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/BaseController.java</url>
-          <line>19</line>
+          <line>24</line>
           <properties />
           <option name="timeStamp" value="110" />
         </line-breakpoint>
@@ -1035,46 +1361,16 @@
           <option name="timeStamp" value="133" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/spring-dubbo/src/main/java/com/alibaba/dubbo/rpc/Protocol$Adaptive.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="139" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/extension/ExtensionLoader.java</url>
           <line>193</line>
           <properties />
           <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/config/ServiceConfig.java</url>
-          <line>484</line>
-          <properties />
-          <option name="timeStamp" value="144" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/ProtocolFilterWrapper.java</url>
-          <line>51</line>
-          <properties />
-          <option name="timeStamp" value="145" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryProtocol.java</url>
-          <line>106</line>
-          <properties />
-          <option name="timeStamp" value="146" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboProtocol.class</url>
           <line>204</line>
           <properties />
           <option name="timeStamp" value="148" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/ProtocolListenerWrapper.java</url>
-          <line>52</line>
-          <properties />
-          <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboProtocol.java</url>
@@ -1088,74 +1384,367 @@
           <properties />
           <option name="timeStamp" value="152" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/support/header/HeaderExchanger.java</url>
-          <line>40</line>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/config/ServiceConfig.java</url>
+          <line>484</line>
           <properties />
-          <option name="timeStamp" value="155" />
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/BaseController.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/BaseController.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryProtocol.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/BaseController.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/proxy/jdk/JdkProxyFactory.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/cluster/router/condition/ConditionRouter.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/cluster/support/wrapper/MockClusterInvoker.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryDirectory.java</url>
+          <line>577</line>
+          <properties />
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/dubbo-consumer/src/main/java/superDemo/Test.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/support/header/HeaderExchangeHandler.java</url>
+          <line>169</line>
+          <properties />
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/AbstractInvoker.java</url>
+          <line>143</line>
+          <properties />
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/support/header/HeartbeatHandler.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/transport/dispatcher/ChannelEventRunnable.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/support/header/HeaderExchangeHandler.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/support/header/HeaderExchangeHandler.java</url>
+          <line>170</line>
+          <properties />
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/transport/netty/NettyHandler.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/transport/dispatcher/ChannelEventRunnable.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/transport/netty/NettyCodecAdapter.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/codec/ExchangeCodec.java</url>
+          <line>141</line>
+          <properties />
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/codec/ExchangeCodec.java</url>
+          <line>252</line>
+          <properties />
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboCodec.java</url>
+          <line>194</line>
+          <properties />
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/socketCode/client/Client.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/socketCode/client/Client.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0.jar!/org/apache/flink/streaming/api/graph/StreamGraphGenerator.class</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0.jar!/org/apache/flink/streaming/api/graph/StreamGraph.class</url>
+          <line>497</line>
+          <properties />
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0.jar!/org/apache/flink/streaming/api/environment/LocalStreamEnvironment.class</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest6.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest10.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java</url>
+          <line>194</line>
+          <properties />
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/DefaultChannelConfig.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/DefaultChannelConfig.java</url>
+          <line>309</line>
+          <properties />
+          <option name="timeStamp" value="326" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/DefaultMaxMessagesRecvByteBufAllocator.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/socketCode/server/Server.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java</url>
+          <line>141</line>
+          <properties />
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java</url>
+          <line>147</line>
+          <properties />
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java</url>
+          <line>198</line>
+          <properties />
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/socketCode/server/Server.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java</url>
+          <line>155</line>
+          <properties />
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java</url>
+          <line>331</line>
+          <properties />
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/AbstractChannel.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="373" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/ServerSocketChannelImpl.class</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="374" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrapConfig.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/MultithreadEventLoopGroup.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/util/concurrent/MultithreadEventExecutorGroup.java</url>
+          <line>136</line>
+          <properties />
+          <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/SingleThreadEventLoop.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/channel/AbstractChannel.java</url>
+          <line>405</line>
+          <properties />
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/channel/AbstractChannel.java</url>
+          <line>418</line>
+          <properties />
+          <option name="timeStamp" value="388" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="156" />
+      <option name="time" value="390" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
-        <expression-string>ExtensionLoader.getExtensionLoader(Exchanger.class).getExtension(type);</expression-string>
+        <expression-string>RpcContext.getContext().getFuture()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>new ListenerExporterWrapper&lt;T&gt;(protocol.export(invoker), 
-                Collections.unmodifiableList(ExtensionLoader.getExtensionLoader(ExporterListener.class)
-                        .getActivateExtension(invoker.getUrl(), Constants.EXPORTER_LISTENER_KEY))</expression-string>
+        <expression-string>(String)RpcContext.getContext().getFuture().get();</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Collections.unmodifiableList(ExtensionLoader.getExtensionLoader(ExporterListener.class)
-                        .getActivateExtension(invoker.getUrl(), Constants.EXPORTER_LISTENER_KEY))</expression-string>
+        <expression-string>hello.sayHello(&quot;s&quot;);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>List&lt;Filter&gt; filters = ExtensionLoader.getExtensionLoader(Filter.class).getActivateExtension(invoker.getUrl(), key, group);</expression-string>
+        <expression-string>ExtensionLoader.getExtensionLoader(LoadBalance.class).getExtension(invokers.get(0).getUrl()
+                    .getMethodParameter(invocation.getMethodName(),Constants.LOADBALANCE_KEY, Constants.DEFAULT_LOADBALANCE));</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>proxyFactory.getInvoker(this.ref, this.interfaceClass, local)</expression-string>
+        <expression-string>loadbalance = ExtensionLoader.getExtensionLoader(LoadBalance.class).getExtension(invokers.get(0).getUrl()
+                    .getMethodParameter(invocation.getMethodName(),Constants.LOADBALANCE_KEY, Constants.DEFAULT_LOADBALANCE));</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>AbstractProxyInvoker abstractProxyFactory = new AbstractProxyInvoker&lt;T&gt;(proxy, type, url) {
-            protected Object doInvoke(T proxy, String methodName, Class&lt;?&gt;[] parameterTypes, Object[] arguments) throws Throwable {
-                return wrapper.invokeMethod(proxy, methodName, parameterTypes, arguments);
-            }
-        };</expression-string>
+        <expression-string>ExtensionLoader.getExtensionLoader(LoadBalance.class).getExtension(invokers.get(0).getUrl()
+                    .getMethodParameter(invocation.getMethodName(),Constants.LOADBALANCE_KEY, Constants.DEFAULT_LOADBALANCE))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>new AbstractProxyInvoker&lt;T&gt;(proxy, type, url) {
-            protected Object doInvoke(T proxy, String methodName, Class&lt;?&gt;[] parameterTypes, Object[] arguments) throws Throwable {
-                return wrapper.invokeMethod(proxy, methodName, parameterTypes, arguments);
-            }
-        };</expression-string>
+        <expression-string>invokers.get(0).getUrl()
+                    .getMethodParameter(invocation.getMethodName(),Constants.LOADBALANCE_KEY, Constants.DEFAULT_LOADBALANCE)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>proxyFactory.getInvoker(this.ref, this.interfaceClass, local);</expression-string>
+        <expression-string>invokers.get(0).getUrl()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>instance = this.injectExtension(wrapperClass.getConstructor(this.type).newInstance(instance))</expression-string>
+        <expression-string>toCategoriesPath(url)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
@@ -1182,390 +1771,490 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>next()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bootstrap.group()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>super.unsafe()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((NioSocketChannel)socketChannel).parent</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>io.netty.channel.socket.nio.NioSocketChannel</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>NettyRuntime.availableProcessors()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>io.netty.util.NettyRuntime</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>NettyRuntime.availableProcessors()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/proxy/AbstractProxyFactory.java">
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/NIOdemo/ArthasTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/Node.java">
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/NIOdemo/ChannelHandlerRerefeceCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/Invocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="58" column="27" lean-forward="true" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/Result.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="29" lean-forward="true" selection-start-line="28" selection-end-line="35" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/config/ServiceConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="502" selection-start-line="502" selection-end-line="502" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/RpcResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
-          <folding>
-            <element signature="e#1203#1204#0" expanded="true" />
-            <element signature="e#1239#1240#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/function/Proxy$Adaptive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="157" selection-start-line="11" selection-start-column="157" selection-end-line="11" selection-end-column="157" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QLExpress/src/main/java/operator/OperatorApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="123" column="9" lean-forward="true" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/AbstractExporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/injvm/InjvmExporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/SpringDubboApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-dubbo/src/main/resources/META-INF.dubbo/com.alibaba.dubbo.rpc.Filter">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/filter/ActiveLimitFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="32" column="9" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="1285" column="30" selection-start-line="1285" selection-start-column="30" selection-end-line="1285" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/HelloImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/BaseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/listener/ListenerExporterWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/MyDubboFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/ExporterListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/config/AbstractConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="382" selection-start-line="382" selection-end-line="382" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/InvokerListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-dubbo/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="51" selection-start-column="51" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/listener/ExporterListenerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-dubbo/src/main/resources/dubbo.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="92" lean-forward="true" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/MyInvokerListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-dubbo/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.ExporterListener">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="48" selection-start-column="48" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/proxy/wrapper/StubProxyFactoryWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/injvm/InjvmProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-dubbo/src/main/java/com/gongdao/springdubbo/MyExporterListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/ProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/proxy/javassist/JavassistProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/proxy/AbstractProxyInvoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-          <folding>
-            <element signature="e#1807#1808#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="246" selection-start-line="246" selection-end-line="246" />
-          <folding>
-            <element signature="e#8524#8525#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-dubbo/src/main/java/com/alibaba/dubbo/rpc/Protocol$Adaptive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/Protocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-dubbo/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.InvokerListener">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboProtocol.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="204" selection-start-line="204" selection-end-line="204" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/config/ServiceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="484" selection-start-line="484" selection-end-line="484" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="106" selection-start-line="106" selection-end-line="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/ProtocolFilterWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="e#2928#2929#0" expanded="true" />
-            <element signature="e#2999#3000#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/ProtocolListenerWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="36" column="36" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/support/ProtocolUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/AbstractProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
-          <folding>
-            <element signature="e#1706#1707#0" expanded="true" />
-            <element signature="e#1752#1753#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/extension/ExtensionLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="323" selection-start-line="323" selection-end-line="323" />
-          <folding>
-            <element signature="e#3199#3217#0" expanded="true" />
-            <element signature="e#5687#5688#0" expanded="true" />
-            <element signature="e#5746#5747#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="286" column="34" lean-forward="true" selection-start-line="286" selection-start-column="34" selection-end-line="286" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/Exchangers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/support/header/HeaderExchanger.java">
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/NIOdemo/HandlerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="40" column="54" lean-forward="true" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/transport/netty/NettyTransporter.java">
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/NIOdemo/NioTest6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/src/main/java/com/protobuf/Student_pb2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/AdaptiveRecvByteBufAllocator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <caret line="149" column="11" selection-start-line="149" selection-start-column="11" selection-end-line="149" selection-end-column="11" />
+          <folding>
+            <element signature="e#4680#4681#0" expanded="true" />
+            <element signature="e#4751#4752#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/Transporters.java">
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/selfEncoderAndDecoder/MyByte2LongDecoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="69" column="30" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+        <state relative-caret-position="285">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/util/concurrent/AbstractEventExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="160" column="54" selection-start-line="160" selection-start-column="54" selection-end-line="160" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/util/concurrent/SingleThreadEventExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="404" selection-start-line="404" selection-end-line="404" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/handler/logging/LoggingHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/longConnection/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/socketCode/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/channels/spi/AbstractSelectableChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="78" column="14" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="14" />
+          <folding>
+            <element signature="e#1934#1935#0" expanded="true" />
+            <element signature="e#1974#1975#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/channels/ServerSocketChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="85" column="10" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
+          <folding>
+            <element signature="e#2287#2288#0" expanded="true" />
+            <element signature="e#2318#2319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/SelectorProviderImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/DefaultChannelConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+          <folding>
+            <element signature="e#3234#3235#0" expanded="true" />
+            <element signature="e#3299#3300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/socket/DefaultServerSocketChannelConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="85" column="10" lean-forward="true" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
+          <folding>
+            <element signature="e#2902#2903#0" expanded="true" />
+            <element signature="e#2960#2961#0" expanded="true" />
+            <element signature="e#3722#3723#0" expanded="true" />
+            <element signature="e#3751#3752#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/channel/ChannelInboundHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/channel/ChannelHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.10.5.Final/netty-3.10.5.Final.jar!/org/jboss/netty/channel/SimpleChannelHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#6456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/channel/SimpleChannelInboundHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="101" column="44" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-shaded-netty/4.1.24.Final-5.0/flink-shaded-netty-4.1.24.Final-5.0.jar!/org/apache/flink/shaded/netty4/io/netty/channel/ChannelOutboundHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/channel/ChannelOutboundHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="43" column="67" lean-forward="true" selection-start-line="43" selection-start-column="67" selection-end-line="43" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/channel/ChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201">
+          <caret line="127" column="17" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/channel/ChannelInboundHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="48" column="63" lean-forward="true" selection-start-line="48" selection-start-column="63" selection-end-line="48" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/util/concurrent/EventExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/DefaultChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/ChannelInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="117" column="23" lean-forward="true" selection-start-line="117" selection-start-column="23" selection-end-line="117" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/bootstrap/ServerBootstrapConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="29" column="56" lean-forward="true" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
+          <folding>
+            <element signature="e#1157#1158#0" expanded="true" />
+            <element signature="e#1189#1190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/nettyUsage/qq/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/EventLoopGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/util/concurrent/DefaultEventExecutorChooserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+          <folding>
+            <element signature="e#1842#1843#0" expanded="true" />
+            <element signature="e#1892#1893#0" expanded="true" />
+            <element signature="e#1949#1950#0" expanded="true" />
+            <element signature="e#2035#2036#0" expanded="true" />
+            <element signature="e#2420#2421#0" expanded="true" />
+            <element signature="e#2512#2513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/util/concurrent/EventExecutorChooserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/AbstractChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+          <folding>
+            <element signature="e#6331#7481#0" expanded="true" />
+            <element signature="e#7480#7481#0" expanded="true" />
+            <element signature="e#12241#12242#0" expanded="true" />
+            <element signature="e#12270#12271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="177" column="14" selection-start-line="177" selection-start-column="14" selection-end-line="177" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/socket/nio/NioSocketChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="458" column="32" selection-start-line="458" selection-start-column="32" selection-end-line="458" selection-end-column="32" />
+          <folding>
+            <element signature="e#14773#14774#0" expanded="true" />
+            <element signature="e#14824#14825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/channel/AbstractChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="418" selection-start-line="418" selection-end-line="418" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/ServerSocketChannelImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/nio/AbstractNioMessageChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#1670#1671#0" expanded="true" />
+            <element signature="e#1962#1970#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="331" selection-start-line="331" selection-end-line="331" />
+          <folding>
+            <element signature="e#8838#8839#0" expanded="true" />
+            <element signature="e#8898#8899#0" expanded="true" />
+            <element signature="e#14379#14380#0" expanded="true" />
+            <element signature="e#14407#14408#0" expanded="true" />
+            <element signature="e#14997#14998#0" expanded="true" />
+            <element signature="e#15027#15028#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrapConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="e#1248#1249#0" expanded="true" />
+            <element signature="e#1328#1329#0" expanded="true" />
+            <element signature="e#2111#2112#0" expanded="true" />
+            <element signature="e#2153#2154#0" expanded="true" />
+            <element signature="e#2549#2550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/MultithreadEventLoopGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="e#3118#3119#0" expanded="true" />
+            <element signature="e#3165#3166#0" expanded="true" />
+            <element signature="e#3390#3391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/util/concurrent/MultithreadEventExecutorGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+          <folding>
+            <element signature="e#5770#5771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/DefaultChannelPromise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#2106#2107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/AbstractChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="984" column="22" lean-forward="true" selection-start-line="984" selection-start-column="22" selection-end-line="984" selection-end-column="22" />
+          <folding>
+            <element signature="e#4462#4463#0" expanded="true" />
+            <element signature="e#4517#4518#0" expanded="true" />
+            <element signature="e#10107#10108#0" expanded="true" />
+            <element signature="e#10136#10137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/SingleThreadEventLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="43" />
+          <folding>
+            <element signature="e#3045#3046#0" expanded="true" />
+            <element signature="e#3118#3119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final-sources.jar!/io/netty/channel/nio/AbstractNioChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="112" column="32" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
+          <folding>
+            <element signature="e#3891#3892#0" expanded="true" />
+            <element signature="e#3925#3926#0" expanded="true" />
+            <element signature="e#3972#3973#0" expanded="true" />
+            <element signature="e#4021#4022#0" expanded="true" />
+            <element signature="e#4070#4071#0" expanded="true" />
+            <element signature="e#4095#4096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/NIOdemo/wanzhengNio/NioClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="60" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -1622,7 +2311,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>springdubbospi</last-edited>
+          <last-edited>QLExpress</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

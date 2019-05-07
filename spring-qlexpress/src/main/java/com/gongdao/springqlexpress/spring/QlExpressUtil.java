@@ -69,9 +69,7 @@ public class QlExpressUtil implements ApplicationContextAware {
                     + "          }else {\n"
                     + "              return false;\n"
                     + "          }");
-				runner.addMacro("peopleMediation","  if (money < 1000){\n"
-                    + "            return 150;\n"
-                    + "        }else if ( money >= 1000 && money < 5000){\n"
+				runner.addMacro("peopleMediation","  if (money < 1000){return 150;}else if ( money >= 1000 && money < 5000){\n"
                     + "            return 300;\n"
                     + "        }else if ( money >= 5000 && money <50000){\n"
                     + "            return 450;\n"

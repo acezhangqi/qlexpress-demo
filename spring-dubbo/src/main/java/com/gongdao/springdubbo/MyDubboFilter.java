@@ -8,6 +8,7 @@ import org.springframework.stereotype.Component;
  * @author zhangqi
  * @date 2019/2/22 下午5:03
  */
+@Component
 public class MyDubboFilter implements Filter ,InitializingBean {
 
 
