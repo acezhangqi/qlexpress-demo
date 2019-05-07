@@ -4,7 +4,7 @@
 package com.zq1.zq;
 
 public interface StreamResquestOrBuilder extends
-    // @@protoc_insertion_point(interface_extends:com.gongdao.zq.StreamResquest)
+    // @@protoc_insertion_point(interface_extends:cn.zq.zq.StreamResquest)
     com.google.protobuf.MessageOrBuilder {
 
   /**

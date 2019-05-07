@@ -24,7 +24,7 @@ public final class StudentServiceGrpc {
 
   private StudentServiceGrpc() {}
 
-  public static final String SERVICE_NAME = "com.gongdao.zq.StudentService";
+  public static final String SERVICE_NAME = "cn.zq.zq.StudentService";
 
   // Static method descriptors that strictly reflect the proto.
   private static volatile io.grpc.MethodDescriptor<MyRequest,
@@ -45,7 +45,7 @@ public final class StudentServiceGrpc {
               io.grpc.MethodDescriptor.<MyRequest, MyResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.UNARY)
               .setFullMethodName(generateFullMethodName(
-                  "com.gongdao.zq.StudentService", "GetRealNameByUsername"))
+                  "cn.zq.zq.StudentService", "GetRealNameByUsername"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
                   MyRequest.getDefaultInstance()))
@@ -77,7 +77,7 @@ public final class StudentServiceGrpc {
               io.grpc.MethodDescriptor.<StudentRequest, StudentResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.SERVER_STREAMING)
               .setFullMethodName(generateFullMethodName(
-                  "com.gongdao.zq.StudentService", "GetStudentsByAge"))
+                  "cn.zq.zq.StudentService", "GetStudentsByAge"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
                   StudentRequest.getDefaultInstance()))
@@ -109,7 +109,7 @@ public final class StudentServiceGrpc {
               io.grpc.MethodDescriptor.<StudentRequest, StudentResponseList>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.CLIENT_STREAMING)
               .setFullMethodName(generateFullMethodName(
-                  "com.gongdao.zq.StudentService", "GetStudentsByList"))
+                  "cn.zq.zq.StudentService", "GetStudentsByList"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
                   StudentRequest.getDefaultInstance()))
@@ -141,7 +141,7 @@ public final class StudentServiceGrpc {
               io.grpc.MethodDescriptor.<StreamResquest, StreamResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.BIDI_STREAMING)
               .setFullMethodName(generateFullMethodName(
-                  "com.gongdao.zq.StudentService", "BiTalk"))
+                  "cn.zq.zq.StudentService", "BiTalk"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
                   StreamResquest.getDefaultInstance()))

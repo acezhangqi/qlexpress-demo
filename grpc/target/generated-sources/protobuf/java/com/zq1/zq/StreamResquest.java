@@ -4,11 +4,11 @@
 package com.zq1.zq;
 
 /**
- * Protobuf type {@code com.gongdao.zq.StreamResquest}
+ * Protobuf type {@code cn.zq.zq.StreamResquest}
  */
 public  final class StreamResquest extends
     com.google.protobuf.GeneratedMessageV3 implements
-    // @@protoc_insertion_point(message_implements:com.gongdao.zq.StreamResquest)
+    // @@protoc_insertion_point(message_implements:cn.zq.zq.StreamResquest)
     StreamResquestOrBuilder {
 private static final long serialVersionUID = 0L;
   // Use StreamResquest.newBuilder() to construct.
@@ -70,13 +70,13 @@ private static final long serialVersionUID = 0L;
   }
   public static final com.google.protobuf.Descriptors.Descriptor
       getDescriptor() {
-    return Student.internal_static_com_gongdao_zq_StreamResquest_descriptor;
+    return Student.internal_static_cn.zq_zq_StreamResquest_descriptor;
   }
 
   @java.lang.Override
   protected com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
       internalGetFieldAccessorTable() {
-    return Student.internal_static_com_gongdao_zq_StreamResquest_fieldAccessorTable
+    return Student.internal_static_cn.zq_zq_StreamResquest_fieldAccessorTable
         .ensureFieldAccessorsInitialized(
             StreamResquest.class, StreamResquest.Builder.class);
   }
@@ -271,26 +271,26 @@ private static final long serialVersionUID = 0L;
     return builder;
   }
   /**
-   * Protobuf type {@code com.gongdao.zq.StreamResquest}
+   * Protobuf type {@code cn.zq.zq.StreamResquest}
    */
   public static final class Builder extends
       com.google.protobuf.GeneratedMessageV3.Builder<Builder> implements
-      // @@protoc_insertion_point(builder_implements:com.gongdao.zq.StreamResquest)
+      // @@protoc_insertion_point(builder_implements:cn.zq.zq.StreamResquest)
       StreamResquestOrBuilder {
     public static final com.google.protobuf.Descriptors.Descriptor
         getDescriptor() {
-      return Student.internal_static_com_gongdao_zq_StreamResquest_descriptor;
+      return Student.internal_static_cn.zq_zq_StreamResquest_descriptor;
     }
 
     @java.lang.Override
     protected com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
         internalGetFieldAccessorTable() {
-      return Student.internal_static_com_gongdao_zq_StreamResquest_fieldAccessorTable
+      return Student.internal_static_cn.zq_zq_StreamResquest_fieldAccessorTable
           .ensureFieldAccessorsInitialized(
               StreamResquest.class, StreamResquest.Builder.class);
     }
 
-    // Construct using com.gongdao.zq.StreamResquest.newBuilder()
+    // Construct using cn.zq.zq.StreamResquest.newBuilder()
     private Builder() {
       maybeForceBuilderInitialization();
     }
@@ -316,7 +316,7 @@ private static final long serialVersionUID = 0L;
     @java.lang.Override
     public com.google.protobuf.Descriptors.Descriptor
         getDescriptorForType() {
-      return Student.internal_static_com_gongdao_zq_StreamResquest_descriptor;
+      return Student.internal_static_cn.zq_zq_StreamResquest_descriptor;
     }
 
     @java.lang.Override
@@ -499,10 +499,10 @@ private static final long serialVersionUID = 0L;
     }
 
 
-    // @@protoc_insertion_point(builder_scope:com.gongdao.zq.StreamResquest)
+    // @@protoc_insertion_point(builder_scope:cn.zq.zq.StreamResquest)
   }
 
-  // @@protoc_insertion_point(class_scope:com.gongdao.zq.StreamResquest)
+  // @@protoc_insertion_point(class_scope:cn.zq.zq.StreamResquest)
   private static final StreamResquest DEFAULT_INSTANCE;
   static {
     DEFAULT_INSTANCE = new StreamResquest();

@@ -4,29 +4,29 @@
 package com.zq1.zq;
 
 public interface StudentResponseListOrBuilder extends
-    // @@protoc_insertion_point(interface_extends:com.gongdao.zq.StudentResponseList)
+    // @@protoc_insertion_point(interface_extends:cn.zq.zq.StudentResponseList)
     com.google.protobuf.MessageOrBuilder {
 
   /**
-   * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+   * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
    */
   java.util.List<StudentResponse>
       getStudentResponseList();
   /**
-   * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+   * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
    */
   StudentResponse getStudentResponse(int index);
   /**
-   * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+   * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
    */
   int getStudentResponseCount();
   /**
-   * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+   * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
    */
   java.util.List<? extends StudentResponseOrBuilder>
       getStudentResponseOrBuilderList();
   /**
-   * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+   * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
    */
   StudentResponseOrBuilder getStudentResponseOrBuilder(
       int index);

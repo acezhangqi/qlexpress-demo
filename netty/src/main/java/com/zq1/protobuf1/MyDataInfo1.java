@@ -657,7 +657,7 @@ public final class MyDataInfo1 {
                 MyDataInfo1.MyMessage.class, MyDataInfo1.MyMessage.Builder.class);
       }
 
-      // Construct using com.gongdao.protobuf1.MyDataInfo1.MyMessage.newBuilder()
+      // Construct using cn.zq.protobuf1.MyDataInfo1.MyMessage.newBuilder()
       private Builder() {
         maybeForceBuilderInitialization();
       }
@@ -1761,7 +1761,7 @@ public final class MyDataInfo1 {
                 MyDataInfo1.Person.class, MyDataInfo1.Person.Builder.class);
       }
 
-      // Construct using com.gongdao.protobuf1.MyDataInfo1.Person.newBuilder()
+      // Construct using cn.zq.protobuf1.MyDataInfo1.Person.newBuilder()
       private Builder() {
         maybeForceBuilderInitialization();
       }
@@ -2522,7 +2522,7 @@ public final class MyDataInfo1 {
                 MyDataInfo1.Dog.class, MyDataInfo1.Dog.Builder.class);
       }
 
-      // Construct using com.gongdao.protobuf1.MyDataInfo1.Dog.newBuilder()
+      // Construct using cn.zq.protobuf1.MyDataInfo1.Dog.newBuilder()
       private Builder() {
         maybeForceBuilderInitialization();
       }
@@ -3242,7 +3242,7 @@ public final class MyDataInfo1 {
                 MyDataInfo1.Cat.class, MyDataInfo1.Cat.Builder.class);
       }
 
-      // Construct using com.gongdao.protobuf1.MyDataInfo1.Cat.newBuilder()
+      // Construct using cn.zq.protobuf1.MyDataInfo1.Cat.newBuilder()
       private Builder() {
         maybeForceBuilderInitialization();
       }

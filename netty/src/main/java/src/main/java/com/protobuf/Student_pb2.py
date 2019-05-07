@@ -277,5 +277,5 @@ _sym_db.RegisterMessage(Cat)
 
 
 DESCRIPTOR.has_options = True
-DESCRIPTOR._options = _descriptor._ParseOptions(descriptor_pb2.FileOptions(), _b('\n\025com.gongdao.protobuf1B\013MyDataInfo1'))
+DESCRIPTOR._options = _descriptor._ParseOptions(descriptor_pb2.FileOptions(), _b('\n\025cn.zq.protobuf1B\013MyDataInfo1'))
 # @@protoc_insertion_point(module_scope)

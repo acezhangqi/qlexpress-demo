@@ -1,6 +1,6 @@
 package com.zq1.grpcdemo;
 
-import com.gongdao.zq.*;
+import cn.zq.zq.*;
 import com.zq1.zq.*;
 import io.grpc.stub.StreamObserver;
 

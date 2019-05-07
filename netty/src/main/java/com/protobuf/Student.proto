@@ -5,7 +5,7 @@ package com.protobuf;
 
 
 
-option java_package = "com.gongdao.protobuf1";
+option java_package = "cn.zq.protobuf1";
 option java_outer_classname = "MyDataInfo1";
 
 

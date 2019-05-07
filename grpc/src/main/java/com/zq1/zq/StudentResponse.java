@@ -4,11 +4,11 @@
 package com.zq1.zq;
 
 /**
- * Protobuf type {@code com.gongdao.zq.StudentResponse}
+ * Protobuf type {@code cn.zq.zq.StudentResponse}
  */
 public  final class StudentResponse extends
     com.google.protobuf.GeneratedMessageV3 implements
-    // @@protoc_insertion_point(message_implements:com.gongdao.zq.StudentResponse)
+    // @@protoc_insertion_point(message_implements:cn.zq.zq.StudentResponse)
     StudentResponseOrBuilder {
 private static final long serialVersionUID = 0L;
   // Use StudentResponse.newBuilder() to construct.
@@ -83,13 +83,13 @@ private static final long serialVersionUID = 0L;
   }
   public static final com.google.protobuf.Descriptors.Descriptor
       getDescriptor() {
-    return Student.internal_static_com_gongdao_zq_StudentResponse_descriptor;
+    return Student.internal_static_cn.zq_zq_StudentResponse_descriptor;
   }
 
   @Override
   protected FieldAccessorTable
       internalGetFieldAccessorTable() {
-    return Student.internal_static_com_gongdao_zq_StudentResponse_fieldAccessorTable
+    return Student.internal_static_cn.zq_zq_StudentResponse_fieldAccessorTable
         .ensureFieldAccessorsInitialized(
             StudentResponse.class, Builder.class);
   }
@@ -348,26 +348,26 @@ private static final long serialVersionUID = 0L;
     return builder;
   }
   /**
-   * Protobuf type {@code com.gongdao.zq.StudentResponse}
+   * Protobuf type {@code cn.zq.zq.StudentResponse}
    */
   public static final class Builder extends
       com.google.protobuf.GeneratedMessageV3.Builder<Builder> implements
-      // @@protoc_insertion_point(builder_implements:com.gongdao.zq.StudentResponse)
+      // @@protoc_insertion_point(builder_implements:cn.zq.zq.StudentResponse)
       StudentResponseOrBuilder {
     public static final com.google.protobuf.Descriptors.Descriptor
         getDescriptor() {
-      return Student.internal_static_com_gongdao_zq_StudentResponse_descriptor;
+      return Student.internal_static_cn.zq_zq_StudentResponse_descriptor;
     }
 
     @Override
     protected FieldAccessorTable
         internalGetFieldAccessorTable() {
-      return Student.internal_static_com_gongdao_zq_StudentResponse_fieldAccessorTable
+      return Student.internal_static_cn.zq_zq_StudentResponse_fieldAccessorTable
           .ensureFieldAccessorsInitialized(
               StudentResponse.class, Builder.class);
     }
 
-    // Construct using com.gongdao.zq.StudentResponse.newBuilder()
+    // Construct using cn.zq.zq.StudentResponse.newBuilder()
     private Builder() {
       maybeForceBuilderInitialization();
     }
@@ -397,7 +397,7 @@ private static final long serialVersionUID = 0L;
     @Override
     public com.google.protobuf.Descriptors.Descriptor
         getDescriptorForType() {
-      return Student.internal_static_com_gongdao_zq_StudentResponse_descriptor;
+      return Student.internal_static_cn.zq_zq_StudentResponse_descriptor;
     }
 
     @Override
@@ -684,10 +684,10 @@ private static final long serialVersionUID = 0L;
     }
 
 
-    // @@protoc_insertion_point(builder_scope:com.gongdao.zq.StudentResponse)
+    // @@protoc_insertion_point(builder_scope:cn.zq.zq.StudentResponse)
   }
 
-  // @@protoc_insertion_point(class_scope:com.gongdao.zq.StudentResponse)
+  // @@protoc_insertion_point(class_scope:cn.zq.zq.StudentResponse)
   private static final StudentResponse DEFAULT_INSTANCE;
   static {
     DEFAULT_INSTANCE = new StudentResponse();

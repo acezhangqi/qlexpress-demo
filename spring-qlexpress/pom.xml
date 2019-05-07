@@ -8,7 +8,7 @@
         <version>1.4.7.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.gongdao</groupId>
+    <groupId>cn.zq</groupId>
     <artifactId>spring-qlexpress</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-qlexpress</name>

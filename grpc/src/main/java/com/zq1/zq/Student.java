@@ -15,40 +15,40 @@ public final class Student {
         (com.google.protobuf.ExtensionRegistryLite) registry);
   }
   static final com.google.protobuf.Descriptors.Descriptor
-    internal_static_com_gongdao_zq_MyRequest_descriptor;
+    internal_static_cn.zq_zq_MyRequest_descriptor;
   static final 
     com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
-      internal_static_com_gongdao_zq_MyRequest_fieldAccessorTable;
+      internal_static_cn.zq_zq_MyRequest_fieldAccessorTable;
   static final com.google.protobuf.Descriptors.Descriptor
-    internal_static_com_gongdao_zq_MyResponse_descriptor;
+    internal_static_cn.zq_zq_MyResponse_descriptor;
   static final 
     com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
-      internal_static_com_gongdao_zq_MyResponse_fieldAccessorTable;
+      internal_static_cn.zq_zq_MyResponse_fieldAccessorTable;
   static final com.google.protobuf.Descriptors.Descriptor
-    internal_static_com_gongdao_zq_StudentResponse_descriptor;
+    internal_static_cn.zq_zq_StudentResponse_descriptor;
   static final 
     com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
-      internal_static_com_gongdao_zq_StudentResponse_fieldAccessorTable;
+      internal_static_cn.zq_zq_StudentResponse_fieldAccessorTable;
   static final com.google.protobuf.Descriptors.Descriptor
-    internal_static_com_gongdao_zq_StudentRequest_descriptor;
+    internal_static_cn.zq_zq_StudentRequest_descriptor;
   static final 
     com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
-      internal_static_com_gongdao_zq_StudentRequest_fieldAccessorTable;
+      internal_static_cn.zq_zq_StudentRequest_fieldAccessorTable;
   static final com.google.protobuf.Descriptors.Descriptor
-    internal_static_com_gongdao_zq_StudentResponseList_descriptor;
+    internal_static_cn.zq_zq_StudentResponseList_descriptor;
   static final 
     com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
-      internal_static_com_gongdao_zq_StudentResponseList_fieldAccessorTable;
+      internal_static_cn.zq_zq_StudentResponseList_fieldAccessorTable;
   static final com.google.protobuf.Descriptors.Descriptor
-    internal_static_com_gongdao_zq_StreamResquest_descriptor;
+    internal_static_cn.zq_zq_StreamResquest_descriptor;
   static final 
     com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
-      internal_static_com_gongdao_zq_StreamResquest_fieldAccessorTable;
+      internal_static_cn.zq_zq_StreamResquest_fieldAccessorTable;
   static final com.google.protobuf.Descriptors.Descriptor
-    internal_static_com_gongdao_zq_StreamResponse_descriptor;
+    internal_static_cn.zq_zq_StreamResponse_descriptor;
   static final 
     com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
-      internal_static_com_gongdao_zq_StreamResponse_fieldAccessorTable;
+      internal_static_cn.zq_zq_StreamResponse_fieldAccessorTable;
 
   public static com.google.protobuf.Descriptors.FileDescriptor
       getDescriptor() {
@@ -58,7 +58,7 @@ public final class Student {
       descriptor;
   static {
     String[] descriptorData = {
-      "\n\rStudent.proto\022\016com.gongdao.zq\"\035\n\tMyReq" +
+      "\n\rStudent.proto\022\016cn.zq.zq\"\035\n\tMyReq" +
       "uest\022\020\n\010username\030\001 \001(\t\"\036\n\nMyResponse\022\020\n\010" +
       "realname\030\002 \001(\t\":\n\017StudentResponse\022\014\n\004nam" +
       "e\030\001 \001(\t\022\013\n\003age\030\002 \001(\005\022\014\n\004city\030\003 \001(\t\"\036\n\016St" +
@@ -68,13 +68,13 @@ public final class Student {
       "quest\022\024\n\014request_info\030\001 \001(\t\"\'\n\016StreamRes" +
       "ponse\022\025\n\rresponse_info\030\002 \001(\t2\351\002\n\016Student" +
       "Service\022P\n\025GetRealNameByUsername\022\031.com.g" +
-      "ongdao.zq.MyRequest\032\032.com.gongdao.zq.MyR" +
+      "ongdao.zq.MyRequest\032\032.cn.zq.zq.MyR" +
       "esponse\"\000\022W\n\020GetStudentsByAge\022\036.com.gong" +
-      "dao.zq.StudentRequest\032\037.com.gongdao.zq.S" +
+      "dao.zq.StudentRequest\032\037.cn.zq.zq.S" +
       "tudentResponse\"\0000\001\022\\\n\021GetStudentsByList\022" +
-      "\036.com.gongdao.zq.StudentRequest\032#.com.go" +
+      "\036.cn.zq.zq.StudentRequest\032#.com.go" +
       "ngdao.zq.StudentResponseList\"\000(\001\022N\n\006BiTa" +
-      "lk\022\036.com.gongdao.zq.StreamResquest\032\036.com" +
+      "lk\022\036.cn.zq.zq.StreamResquest\032\036.com" +
       ".gongdao.zq.StreamResponse\"\000(\0010\001B\033\n\016com." +
       "gongdao.zqB\007StudentP\001b\006proto3"
     };
@@ -90,47 +90,47 @@ public final class Student {
       .internalBuildGeneratedFileFrom(descriptorData,
         new com.google.protobuf.Descriptors.FileDescriptor[] {
         }, assigner);
-    internal_static_com_gongdao_zq_MyRequest_descriptor =
+    internal_static_cn.zq_zq_MyRequest_descriptor =
       getDescriptor().getMessageTypes().get(0);
-    internal_static_com_gongdao_zq_MyRequest_fieldAccessorTable = new
+    internal_static_cn.zq_zq_MyRequest_fieldAccessorTable = new
       com.google.protobuf.GeneratedMessageV3.FieldAccessorTable(
-        internal_static_com_gongdao_zq_MyRequest_descriptor,
+        internal_static_cn.zq_zq_MyRequest_descriptor,
         new String[] { "Username", });
-    internal_static_com_gongdao_zq_MyResponse_descriptor =
+    internal_static_cn.zq_zq_MyResponse_descriptor =
       getDescriptor().getMessageTypes().get(1);
-    internal_static_com_gongdao_zq_MyResponse_fieldAccessorTable = new
+    internal_static_cn.zq_zq_MyResponse_fieldAccessorTable = new
       com.google.protobuf.GeneratedMessageV3.FieldAccessorTable(
-        internal_static_com_gongdao_zq_MyResponse_descriptor,
+        internal_static_cn.zq_zq_MyResponse_descriptor,
         new String[] { "Realname", });
-    internal_static_com_gongdao_zq_StudentResponse_descriptor =
+    internal_static_cn.zq_zq_StudentResponse_descriptor =
       getDescriptor().getMessageTypes().get(2);
-    internal_static_com_gongdao_zq_StudentResponse_fieldAccessorTable = new
+    internal_static_cn.zq_zq_StudentResponse_fieldAccessorTable = new
       com.google.protobuf.GeneratedMessageV3.FieldAccessorTable(
-        internal_static_com_gongdao_zq_StudentResponse_descriptor,
+        internal_static_cn.zq_zq_StudentResponse_descriptor,
         new String[] { "Name", "Age", "City", });
-    internal_static_com_gongdao_zq_StudentRequest_descriptor =
+    internal_static_cn.zq_zq_StudentRequest_descriptor =
       getDescriptor().getMessageTypes().get(3);
-    internal_static_com_gongdao_zq_StudentRequest_fieldAccessorTable = new
+    internal_static_cn.zq_zq_StudentRequest_fieldAccessorTable = new
       com.google.protobuf.GeneratedMessageV3.FieldAccessorTable(
-        internal_static_com_gongdao_zq_StudentRequest_descriptor,
+        internal_static_cn.zq_zq_StudentRequest_descriptor,
         new String[] { "Name", });
-    internal_static_com_gongdao_zq_StudentResponseList_descriptor =
+    internal_static_cn.zq_zq_StudentResponseList_descriptor =
       getDescriptor().getMessageTypes().get(4);
-    internal_static_com_gongdao_zq_StudentResponseList_fieldAccessorTable = new
+    internal_static_cn.zq_zq_StudentResponseList_fieldAccessorTable = new
       com.google.protobuf.GeneratedMessageV3.FieldAccessorTable(
-        internal_static_com_gongdao_zq_StudentResponseList_descriptor,
+        internal_static_cn.zq_zq_StudentResponseList_descriptor,
         new String[] { "StudentResponse", });
-    internal_static_com_gongdao_zq_StreamResquest_descriptor =
+    internal_static_cn.zq_zq_StreamResquest_descriptor =
       getDescriptor().getMessageTypes().get(5);
-    internal_static_com_gongdao_zq_StreamResquest_fieldAccessorTable = new
+    internal_static_cn.zq_zq_StreamResquest_fieldAccessorTable = new
       com.google.protobuf.GeneratedMessageV3.FieldAccessorTable(
-        internal_static_com_gongdao_zq_StreamResquest_descriptor,
+        internal_static_cn.zq_zq_StreamResquest_descriptor,
         new String[] { "RequestInfo", });
-    internal_static_com_gongdao_zq_StreamResponse_descriptor =
+    internal_static_cn.zq_zq_StreamResponse_descriptor =
       getDescriptor().getMessageTypes().get(6);
-    internal_static_com_gongdao_zq_StreamResponse_fieldAccessorTable = new
+    internal_static_cn.zq_zq_StreamResponse_fieldAccessorTable = new
       com.google.protobuf.GeneratedMessageV3.FieldAccessorTable(
-        internal_static_com_gongdao_zq_StreamResponse_descriptor,
+        internal_static_cn.zq_zq_StreamResponse_descriptor,
         new String[] { "ResponseInfo", });
   }
 

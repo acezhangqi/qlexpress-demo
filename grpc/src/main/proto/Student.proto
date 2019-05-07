@@ -1,7 +1,7 @@
 
 syntax = "proto3";
-package com.gongdao.zq;
-option java_package ="com.gongdao.zq";
+package cn.zq.zq;
+option java_package ="cn.zq.zq";
 option java_outer_classname="Student";
 option java_multiple_files = true;
 

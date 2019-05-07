@@ -4,7 +4,7 @@
 package com.zq1.zq;
 
 public interface StudentRequestOrBuilder extends
-    // @@protoc_insertion_point(interface_extends:com.gongdao.zq.StudentRequest)
+    // @@protoc_insertion_point(interface_extends:cn.zq.zq.StudentRequest)
     com.google.protobuf.MessageOrBuilder {
 
   /**

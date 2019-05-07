@@ -4,11 +4,11 @@
 package com.zq1.zq;
 
 /**
- * Protobuf type {@code com.gongdao.zq.MyResponse}
+ * Protobuf type {@code cn.zq.zq.MyResponse}
  */
 public  final class MyResponse extends
     com.google.protobuf.GeneratedMessageV3 implements
-    // @@protoc_insertion_point(message_implements:com.gongdao.zq.MyResponse)
+    // @@protoc_insertion_point(message_implements:cn.zq.zq.MyResponse)
     MyResponseOrBuilder {
 private static final long serialVersionUID = 0L;
   // Use MyResponse.newBuilder() to construct.
@@ -70,13 +70,13 @@ private static final long serialVersionUID = 0L;
   }
   public static final com.google.protobuf.Descriptors.Descriptor
       getDescriptor() {
-    return Student.internal_static_com_gongdao_zq_MyResponse_descriptor;
+    return Student.internal_static_cn.zq_zq_MyResponse_descriptor;
   }
 
   @java.lang.Override
   protected com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
       internalGetFieldAccessorTable() {
-    return Student.internal_static_com_gongdao_zq_MyResponse_fieldAccessorTable
+    return Student.internal_static_cn.zq_zq_MyResponse_fieldAccessorTable
         .ensureFieldAccessorsInitialized(
             MyResponse.class, MyResponse.Builder.class);
   }
@@ -271,26 +271,26 @@ private static final long serialVersionUID = 0L;
     return builder;
   }
   /**
-   * Protobuf type {@code com.gongdao.zq.MyResponse}
+   * Protobuf type {@code cn.zq.zq.MyResponse}
    */
   public static final class Builder extends
       com.google.protobuf.GeneratedMessageV3.Builder<Builder> implements
-      // @@protoc_insertion_point(builder_implements:com.gongdao.zq.MyResponse)
+      // @@protoc_insertion_point(builder_implements:cn.zq.zq.MyResponse)
       MyResponseOrBuilder {
     public static final com.google.protobuf.Descriptors.Descriptor
         getDescriptor() {
-      return Student.internal_static_com_gongdao_zq_MyResponse_descriptor;
+      return Student.internal_static_cn.zq_zq_MyResponse_descriptor;
     }
 
     @java.lang.Override
     protected com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
         internalGetFieldAccessorTable() {
-      return Student.internal_static_com_gongdao_zq_MyResponse_fieldAccessorTable
+      return Student.internal_static_cn.zq_zq_MyResponse_fieldAccessorTable
           .ensureFieldAccessorsInitialized(
               MyResponse.class, MyResponse.Builder.class);
     }
 
-    // Construct using com.gongdao.zq.MyResponse.newBuilder()
+    // Construct using cn.zq.zq.MyResponse.newBuilder()
     private Builder() {
       maybeForceBuilderInitialization();
     }
@@ -316,7 +316,7 @@ private static final long serialVersionUID = 0L;
     @java.lang.Override
     public com.google.protobuf.Descriptors.Descriptor
         getDescriptorForType() {
-      return Student.internal_static_com_gongdao_zq_MyResponse_descriptor;
+      return Student.internal_static_cn.zq_zq_MyResponse_descriptor;
     }
 
     @java.lang.Override
@@ -499,10 +499,10 @@ private static final long serialVersionUID = 0L;
     }
 
 
-    // @@protoc_insertion_point(builder_scope:com.gongdao.zq.MyResponse)
+    // @@protoc_insertion_point(builder_scope:cn.zq.zq.MyResponse)
   }
 
-  // @@protoc_insertion_point(class_scope:com.gongdao.zq.MyResponse)
+  // @@protoc_insertion_point(class_scope:cn.zq.zq.MyResponse)
   private static final MyResponse DEFAULT_INSTANCE;
   static {
     DEFAULT_INSTANCE = new MyResponse();

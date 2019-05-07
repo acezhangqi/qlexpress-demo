@@ -4,11 +4,11 @@
 package com.zq1.zq;
 
 /**
- * Protobuf type {@code com.gongdao.zq.StudentResponseList}
+ * Protobuf type {@code cn.zq.zq.StudentResponseList}
  */
 public  final class StudentResponseList extends
     com.google.protobuf.GeneratedMessageV3 implements
-    // @@protoc_insertion_point(message_implements:com.gongdao.zq.StudentResponseList)
+    // @@protoc_insertion_point(message_implements:cn.zq.zq.StudentResponseList)
     StudentResponseListOrBuilder {
 private static final long serialVersionUID = 0L;
   // Use StudentResponseList.newBuilder() to construct.
@@ -76,13 +76,13 @@ private static final long serialVersionUID = 0L;
   }
   public static final com.google.protobuf.Descriptors.Descriptor
       getDescriptor() {
-    return Student.internal_static_com_gongdao_zq_StudentResponseList_descriptor;
+    return Student.internal_static_cn.zq_zq_StudentResponseList_descriptor;
   }
 
   @Override
   protected FieldAccessorTable
       internalGetFieldAccessorTable() {
-    return Student.internal_static_com_gongdao_zq_StudentResponseList_fieldAccessorTable
+    return Student.internal_static_cn.zq_zq_StudentResponseList_fieldAccessorTable
         .ensureFieldAccessorsInitialized(
             StudentResponseList.class, Builder.class);
   }
@@ -90,32 +90,32 @@ private static final long serialVersionUID = 0L;
   public static final int STUDENTRESPONSE_FIELD_NUMBER = 2;
   private java.util.List<StudentResponse> studentResponse_;
   /**
-   * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+   * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
    */
   public java.util.List<StudentResponse> getStudentResponseList() {
     return studentResponse_;
   }
   /**
-   * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+   * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
    */
   public java.util.List<? extends StudentResponseOrBuilder>
       getStudentResponseOrBuilderList() {
     return studentResponse_;
   }
   /**
-   * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+   * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
    */
   public int getStudentResponseCount() {
     return studentResponse_.size();
   }
   /**
-   * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+   * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
    */
   public StudentResponse getStudentResponse(int index) {
     return studentResponse_.get(index);
   }
   /**
-   * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+   * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
    */
   public StudentResponseOrBuilder getStudentResponseOrBuilder(
       int index) {
@@ -281,26 +281,26 @@ private static final long serialVersionUID = 0L;
     return builder;
   }
   /**
-   * Protobuf type {@code com.gongdao.zq.StudentResponseList}
+   * Protobuf type {@code cn.zq.zq.StudentResponseList}
    */
   public static final class Builder extends
       com.google.protobuf.GeneratedMessageV3.Builder<Builder> implements
-      // @@protoc_insertion_point(builder_implements:com.gongdao.zq.StudentResponseList)
+      // @@protoc_insertion_point(builder_implements:cn.zq.zq.StudentResponseList)
       StudentResponseListOrBuilder {
     public static final com.google.protobuf.Descriptors.Descriptor
         getDescriptor() {
-      return Student.internal_static_com_gongdao_zq_StudentResponseList_descriptor;
+      return Student.internal_static_cn.zq_zq_StudentResponseList_descriptor;
     }
 
     @Override
     protected FieldAccessorTable
         internalGetFieldAccessorTable() {
-      return Student.internal_static_com_gongdao_zq_StudentResponseList_fieldAccessorTable
+      return Student.internal_static_cn.zq_zq_StudentResponseList_fieldAccessorTable
           .ensureFieldAccessorsInitialized(
               StudentResponseList.class, Builder.class);
     }
 
-    // Construct using com.gongdao.zq.StudentResponseList.newBuilder()
+    // Construct using cn.zq.zq.StudentResponseList.newBuilder()
     private Builder() {
       maybeForceBuilderInitialization();
     }
@@ -331,7 +331,7 @@ private static final long serialVersionUID = 0L;
     @Override
     public com.google.protobuf.Descriptors.Descriptor
         getDescriptorForType() {
-      return Student.internal_static_com_gongdao_zq_StudentResponseList_descriptor;
+      return Student.internal_static_cn.zq_zq_StudentResponseList_descriptor;
     }
 
     @Override
@@ -478,7 +478,7 @@ private static final long serialVersionUID = 0L;
         StudentResponse, StudentResponse.Builder, StudentResponseOrBuilder> studentResponseBuilder_;
 
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public java.util.List<StudentResponse> getStudentResponseList() {
       if (studentResponseBuilder_ == null) {
@@ -488,7 +488,7 @@ private static final long serialVersionUID = 0L;
       }
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public int getStudentResponseCount() {
       if (studentResponseBuilder_ == null) {
@@ -498,7 +498,7 @@ private static final long serialVersionUID = 0L;
       }
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public StudentResponse getStudentResponse(int index) {
       if (studentResponseBuilder_ == null) {
@@ -508,7 +508,7 @@ private static final long serialVersionUID = 0L;
       }
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public Builder setStudentResponse(
         int index, StudentResponse value) {
@@ -525,7 +525,7 @@ private static final long serialVersionUID = 0L;
       return this;
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public Builder setStudentResponse(
         int index, StudentResponse.Builder builderForValue) {
@@ -539,7 +539,7 @@ private static final long serialVersionUID = 0L;
       return this;
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public Builder addStudentResponse(StudentResponse value) {
       if (studentResponseBuilder_ == null) {
@@ -555,7 +555,7 @@ private static final long serialVersionUID = 0L;
       return this;
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public Builder addStudentResponse(
         int index, StudentResponse value) {
@@ -572,7 +572,7 @@ private static final long serialVersionUID = 0L;
       return this;
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public Builder addStudentResponse(
         StudentResponse.Builder builderForValue) {
@@ -586,7 +586,7 @@ private static final long serialVersionUID = 0L;
       return this;
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public Builder addStudentResponse(
         int index, StudentResponse.Builder builderForValue) {
@@ -600,7 +600,7 @@ private static final long serialVersionUID = 0L;
       return this;
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public Builder addAllStudentResponse(
         Iterable<? extends StudentResponse> values) {
@@ -615,7 +615,7 @@ private static final long serialVersionUID = 0L;
       return this;
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public Builder clearStudentResponse() {
       if (studentResponseBuilder_ == null) {
@@ -628,7 +628,7 @@ private static final long serialVersionUID = 0L;
       return this;
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public Builder removeStudentResponse(int index) {
       if (studentResponseBuilder_ == null) {
@@ -641,14 +641,14 @@ private static final long serialVersionUID = 0L;
       return this;
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public StudentResponse.Builder getStudentResponseBuilder(
         int index) {
       return getStudentResponseFieldBuilder().getBuilder(index);
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public StudentResponseOrBuilder getStudentResponseOrBuilder(
         int index) {
@@ -658,7 +658,7 @@ private static final long serialVersionUID = 0L;
       }
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public java.util.List<? extends StudentResponseOrBuilder>
          getStudentResponseOrBuilderList() {
@@ -669,14 +669,14 @@ private static final long serialVersionUID = 0L;
       }
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public StudentResponse.Builder addStudentResponseBuilder() {
       return getStudentResponseFieldBuilder().addBuilder(
           StudentResponse.getDefaultInstance());
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public StudentResponse.Builder addStudentResponseBuilder(
         int index) {
@@ -684,7 +684,7 @@ private static final long serialVersionUID = 0L;
           index, StudentResponse.getDefaultInstance());
     }
     /**
-     * <code>repeated .com.gongdao.zq.StudentResponse studentResponse = 2;</code>
+     * <code>repeated .cn.zq.zq.StudentResponse studentResponse = 2;</code>
      */
     public java.util.List<StudentResponse.Builder>
          getStudentResponseBuilderList() {
@@ -717,10 +717,10 @@ private static final long serialVersionUID = 0L;
     }
 
 
-    // @@protoc_insertion_point(builder_scope:com.gongdao.zq.StudentResponseList)
+    // @@protoc_insertion_point(builder_scope:cn.zq.zq.StudentResponseList)
   }
 
-  // @@protoc_insertion_point(class_scope:com.gongdao.zq.StudentResponseList)
+  // @@protoc_insertion_point(class_scope:cn.zq.zq.StudentResponseList)
   private static final StudentResponseList DEFAULT_INSTANCE;
   static {
     DEFAULT_INSTANCE = new StudentResponseList();
