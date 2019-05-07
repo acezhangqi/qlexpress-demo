@@ -22,7 +22,7 @@
                    ref="demoService" timeout="10000" version="1.0.0"  group="test" loadbalance="roundrobin" filter="MyDubboFitler"/>
 
     <!-- 和本地 bean 一样实现服务 -->
-    <bean id="demoService" class="com.gongdao.springdubbo.HelloImpl" />
+    <bean id="demoService" class="com.zq1.springdubbo.HelloImpl" />
 
 
 </beans>

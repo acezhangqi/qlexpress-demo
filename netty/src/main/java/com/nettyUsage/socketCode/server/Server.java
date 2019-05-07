@@ -39,10 +39,7 @@ public class Server {
                     channelPipeline.addLast(new SimpleChannelInboundHandler<String>() {
                         @Override
                         protected void channelRead0(ChannelHandlerContext ctx, String s) {
-                            System.out.println(ctx.channel().remoteAddress());
-                            ctx.pipeline();
-                            System.out.println(s);
-                            String message = ctx.channel().attr(id).get();
+                           ctx.channel().writeAndFlush("收到请求");
                             ctx.writeAndFlush("收到请求");
                         }
 
