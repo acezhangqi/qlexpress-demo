@@ -845,7 +845,7 @@ public final class DataInfo {
       "\n(src/main/java/com/protobuf/Student.pro" +
       "to\022\014com.protobuf\"4\n\006Person\022\014\n\004name\030\001 \002(\t" +
       "\022\013\n\003age\030\002 \001(\005\022\017\n\007address\030\003 \001(\tB \n\024com.go" +
-      "ngdao.protobufB\010DataInfo"
+      "ngzq.protobufB\010DataInfo"
     };
     com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner assigner =
         new com.google.protobuf.Descriptors.FileDescriptor.    InternalDescriptorAssigner() {

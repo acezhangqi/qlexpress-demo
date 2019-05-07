@@ -64,19 +64,19 @@ public final class Student {
       "e\030\001 \001(\t\022\013\n\003age\030\002 \001(\005\022\014\n\004city\030\003 \001(\t\"\036\n\016St" +
       "udentRequest\022\014\n\004name\030\001 \001(\t\"O\n\023StudentRes" +
       "ponseList\0228\n\017studentResponse\030\002 \003(\0132\037.com" +
-      ".gongdao.zq.StudentResponse\"&\n\016StreamRes" +
+      ".zq.zq.StudentResponse\"&\n\016StreamRes" +
       "quest\022\024\n\014request_info\030\001 \001(\t\"\'\n\016StreamRes" +
       "ponse\022\025\n\rresponse_info\030\002 \001(\t2\351\002\n\016Student" +
       "Service\022P\n\025GetRealNameByUsername\022\031.com.g" +
-      "ongdao.zq.MyRequest\032\032.cn.zq.zq.MyR" +
-      "esponse\"\000\022W\n\020GetStudentsByAge\022\036.com.gong" +
-      "dao.zq.StudentRequest\032\037.cn.zq.zq.S" +
+      "ongzq.zq.MyRequest\032\032.cn.zq.zq.MyR" +
+      "esponse\"\000\022W\n\020GetStudentsByAge\022\036.com.zq" +
+      "zq.zq.StudentRequest\032\037.cn.zq.zq.S" +
       "tudentResponse\"\0000\001\022\\\n\021GetStudentsByList\022" +
       "\036.cn.zq.zq.StudentRequest\032#.com.go" +
-      "ngdao.zq.StudentResponseList\"\000(\001\022N\n\006BiTa" +
+      "ngzq.zq.StudentResponseList\"\000(\001\022N\n\006BiTa" +
       "lk\022\036.cn.zq.zq.StreamResquest\032\036.com" +
-      ".gongdao.zq.StreamResponse\"\000(\0010\001B\033\n\016com." +
-      "gongdao.zqB\007StudentP\001b\006proto3"
+      ".zq.zq.StreamResponse\"\000(\0010\001B\033\n\016com." +
+      "zq.zqB\007StudentP\001b\006proto3"
     };
     com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner assigner =
         new com.google.protobuf.Descriptors.FileDescriptor.    InternalDescriptorAssigner() {

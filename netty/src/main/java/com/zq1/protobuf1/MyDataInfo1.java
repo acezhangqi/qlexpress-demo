@@ -3615,7 +3615,7 @@ public final class MyDataInfo1 {
       "\022\013\n\003age\030\002 \001(\005\022\017\n\007address\030\003 \001(\t\"&\n\003Dog\022\r\n" +
       "\005name1\030\001 \001(\t\022\020\n\010address1\030\002 \001(\t\"&\n\003Cat\022\r\n",
       "\005name2\030\002 \001(\t\022\020\n\010address2\030\003 \001(\tB$\n\025com.go" +
-      "ngdao.protobuf1B\013MyDataInfo1"
+      "ngzq.protobuf1B\013MyDataInfo1"
     };
     com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner assigner =
         new com.google.protobuf.Descriptors.FileDescriptor.    InternalDescriptorAssigner() {
